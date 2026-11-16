@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-phishing">
+  <title>Phishing Awareness and Reporting</title>
+  <topicmeta>
+    <shortdesc>How to recognize common NC State phishing scams, inspect suspicious emails, and report phishing attempts.</shortdesc>
+  </topicmeta>
+  <topicref href="c_what-is-phishing.dita" type="concept"/>
+  <topicref href="c_what-are-nc-state-phishing-scams.dita" type="concept"/>
+  <topicref href="c_Phishing-prevention.dita" type="concept"/>
+  <topicref href="t_how-to-identify-phishing-attempts.dita" type="task"/>
+  <topicref href="t_how-to-report-phishing-email.dita" type="task"/>
+  <topicref href="r_see-also-reporting-cyber-incidents.dita" type="reference" audience="staff faculty"/>
+</map>

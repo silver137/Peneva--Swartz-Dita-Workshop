@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-alert-fatigue">
+  <title>Alert Fatigue</title>
+  <topicmeta>
+    <shortdesc>Understanding cybersecurity alert fatigue, prioritizing campus security notifications, and organizing email filters.</shortdesc>
+  </topicmeta>
+  <topicref href="c_what-is-alert-fatigue.dita" type="concept"/>
+  <topicref href="c_causes-and-effects-of-alert-fatigue.dita" type="concept"/>
+  <topicref href="t_how-to-receive-campus-security-alerts.dita" type="task"/>
+  <topicref href="t_how-to-create-email-filters.dita" type="task"/>
+  <topicref href="r_structure-for-incoming-emails.dita" type="reference"/>
+</map>

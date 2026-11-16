@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-2fa">
+  <title>Two-Factor Authentication (2FA)</title>
+  <topicmeta>
+    <shortdesc>Concepts, Duo enrollment tasks, device management, and security benefits for NC State two-factor authentication.</shortdesc>
+  </topicmeta>
+  <topicref href="c_what-is-2fa.dita" type="concept"/>
+  <topicref href="t_how-to-enroll-in-duo-2fa.dita" type="task"/>
+  <topicref href="t_how-to-add-new-device-to-duo.dita" type="task"/>
+  <topicref href="t_how-to-add-new-phone-to-duo.dita" type="task"/>
+  <topicref href="t_how-to-use-duo-bypass-code.dita" type="task"/>
+  <topicref href="r_see-also-2fa-benefits.dita" type="reference"/>
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-autofill-information">
+  <title>Autofill Information</title>
+  <topicmeta>
+    <shortdesc>Security risks of browser autofill and step-by-step instructions for managing or clearing autofill across browsers.</shortdesc>
+  </topicmeta>
+  <topicref href="c_risks-of-using-autofill.dita" type="concept"/>
+  <topicref href="t_remove-autofill-information-chrome.dita" type="task"/>
+  <topicref href="t_turn-off-and-clear-autofill-information-chrome.dita" type="task"/>
+  <topicref href="t_turn-off-and-clear-autofill-information-iphone.dita" type="task"/>
+  <topicref href="t_turn-off-and-clear-autofill-information-safari.dita" type="task"/>
+  <topicref href="t_turn-off-and-clear-autofill-information-microsoft.dita" type="task"/>
+  <topicref href="r_what-to-use-autofill-for.dita" type="reference" audience="staff"/>
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-outdated-software">
+  <title>Outdated Software</title>
+  <topicmeta>
+    <shortdesc>Security risks of outdated software, instructions for checking updates on Mac and Windows, and NC State IT support.</shortdesc>
+  </topicmeta>
+  <topicref href="c_what-is-outdated-software.dita" type="concept"/>
+  <topicref href="t_how-to-check-for-software-updates-on-mac.dita" type="task"/>
+  <topicref href="t_how-to-check-for-software-updates-on-windows.dita" type="task"/>
+  <topicref href="r_concerns-for-organizations.dita" type="reference"/>
+  <topicref href="r_campus-information-technology-service-portal.dita" type="reference"/>
+</map>

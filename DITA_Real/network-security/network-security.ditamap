@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-network-security">
+  <title>Network Security</title>
+  <topicmeta>
+    <shortdesc>Network security fundamentals, public Wi-Fi safety practices, campus regulations, and required security training.</shortdesc>
+  </topicmeta>
+  <topicref href="c_what-is-network-security.dita" type="concept"/>
+  <topicref href="c_ncsu-data-security-training.dita" type="concept" audience="students staff"/>
+  <topicref href="t_public-wifi-best-practices.dita" type="task"/>
+  <topicref href="t_how-to-stay-safe-on-public-wifi.dita" type="task"/>
+  <topicref href="r_ncsu-network-security-regulations.dita" type="reference" audience="students staff"/>
+</map>

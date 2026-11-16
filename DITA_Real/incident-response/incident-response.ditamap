@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map-incident-response">
+  <title>Incident Response</title>
+  <topicmeta>
+    <shortdesc>Cybersecurity incident response concepts, reporting procedures, and official NC State response rules and tools.</shortdesc>
+  </topicmeta>
+  <topicref href="c_what-is-incident-response.dita" type="concept" audience="staff faculty"/>
+  <topicref href="t_report-an-incident.dita" type="task" audience="students faculty"/>
+  <topicref href="r_incident-response-technologies.dita" type="reference" audience="staff"/>
+  <topicref href="r_ncsu-incident-response-rules-and-regulations.dita" type="reference" audience="staff"/>
+</map>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="nc-state-cybersecurity-master">
+  <title>NC State Cybersecurity Knowledge Base</title>
+  <topicmeta>
+    <shortdesc>Comprehensive cybersecurity guidance, procedures, and reference resources for NC State students, staff, and faculty.</shortdesc>
+  </topicmeta>
+
+  <!-- Audience Filters -->
+  <ditavalref href="students.ditaval"/>
+  <ditavalref href="staff.ditaval"/>
+  <ditavalref href="faculty.ditaval"/>
+
+  <!-- Section Sub-Maps -->
+  <mapref href="two-factor-authentication/two-factor-authentication.ditamap" format="ditamap"/>
+  <mapref href="password-management/password-management.ditamap" format="ditamap"/>
+  <mapref href="phishing/phishing.ditamap" format="ditamap"/>
+  <mapref href="vpn/vpn.ditamap" format="ditamap"/>
+  <mapref href="network-security/network-security.ditamap" format="ditamap"/>
+  <mapref href="ransomware/ransomware.ditamap" format="ditamap"/>
+  <mapref href="data-breach/data-breach.ditamap" format="ditamap"/>
+  <mapref href="incident-response/incident-response.ditamap" format="ditamap"/>
+  <mapref href="outdated-software/outdated-software.ditamap" format="ditamap"/>
+  <mapref href="cookies/cookies.ditamap" format="ditamap"/>
+  <mapref href="autofill-information/autofill-information.ditamap" format="ditamap"/>
+  <mapref href="alert-fatigue/alert-fatigue.ditamap" format="ditamap"/>
+
+  <!-- Relationship Table -->
+  <reltable>
+    <relheader>
+      <relcolspec type="concept"/>
+      <relcolspec type="task"/>
+      <relcolspec type="reference"/>
+    </relheader>
+
+    <!-- Row 1: Cookies, VPN, 2FA -->
+    <relrow>
+      <relcell>
+        <topicref href="cookies/c_what-are-cookies.dita" type="concept"/>
+        <topicref href="cookies/c_how-google-uses-cookies.dita" type="concept"/>
+        <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="cookies/t_how-to-clear-cookies-and-cache.dita" type="task"/>
+        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="cookies/r_types-of-cookies.dita" type="reference" audience="staff"/>
+      </relcell>
+    </relrow>
+
+    <!-- Row 2: Autofill, Password Management, Data Breach -->
+    <relrow>
+      <relcell>
+        <topicref href="autofill-information/c_risks-of-using-autofill.dita" type="concept"/>
+        <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept"/>
+        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="autofill-information/t_turn-off-and-clear-autofill-information-chrome.dita" type="task"/>
+        <topicref href="autofill-information/t_turn-off-and-clear-autofill-information-iphone.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="autofill-information/r_what-to-use-autofill-for.dita" type="reference" audience="staff"/>
+        <topicref href="password-management/r_see-also-password-security-best-practices.dita" type="reference"/>
+      </relcell>
+    </relrow>
+
+    <!-- Row 3: Incident Response, Phishing, Ransomware, Data Breach, Network Security, VPN, 2FA -->
+    <relrow>
+      <relcell>
+        <topicref href="incident-response/c_what-is-incident-response.dita" type="concept" audience="staff faculty"/>
+        <topicref href="phishing/c_what-is-phishing.dita" type="concept"/>
+        <topicref href="ransomware/c_what-is-ransomware.dita" type="concept"/>
+        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept"/>
+        <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="incident-response/t_report-an-incident.dita" type="task" audience="students faculty"/>
+        <topicref href="phishing/t_how-to-report-phishing-email.dita" type="task"/>
+        <topicref href="vpn/t_how-to-connect-to-nc-state-vpn.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="incident-response/r_incident-response-technologies.dita" type="reference" audience="staff"/>
+        <topicref href="incident-response/r_ncsu-incident-response-rules-and-regulations.dita" type="reference" audience="staff"/>
+        <topicref href="phishing/r_see-also-reporting-cyber-incidents.dita" type="reference" audience="staff faculty"/>
+      </relcell>
+    </relrow>
+
+    <!-- Row 4: Network Security, 2FA, Phishing, Password Management, Outdated Software -->
+    <relrow>
+      <relcell>
+        <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
+        <topicref href="network-security/c_ncsu-data-security-training.dita" type="concept" audience="students staff"/>
+        <topicref href="outdated-software/c_what-is-outdated-software.dita" type="concept"/>
+        <topicref href="two-factor-authentication/c_what-is-2fa.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="network-security/t_public-wifi-best-practices.dita" type="task"/>
+        <topicref href="network-security/t_how-to-stay-safe-on-public-wifi.dita" type="task"/>
+        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-mac.dita" type="task"/>
+        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-windows.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="network-security/r_ncsu-network-security-regulations.dita" type="reference" audience="students staff"/>
+        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference"/>
+      </relcell>
+    </relrow>
+
+    <!-- Row 5: VPN, 2FA Duo Authentication -->
+    <relrow>
+      <relcell>
+        <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept"/>
+        <topicref href="vpn/c_what-is-vpn-encryption.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task"/>
+        <topicref href="vpn/t_how-to-connect-to-nc-state-vpn.dita" type="task"/>
+        <topicref href="vpn/t_how-to-authenticate-vpn-with-duo.dita" type="task"/>
+        <topicref href="two-factor-authentication/t_how-to-use-duo-bypass-code.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="vpn/r_see-also-vpn-resources-and-support.dita" type="reference"/>
+        <topicref href="two-factor-authentication/r_see-also-2fa-benefits.dita" type="reference"/>
+      </relcell>
+    </relrow>
+
+    <!-- Row 6: Ransomware, Alert Fatigue, Email Filtering -->
+    <relrow>
+      <relcell>
+        <topicref href="ransomware/c_what-is-ransomware.dita" type="concept"/>
+        <topicref href="alert-fatigue/c_what-is-alert-fatigue.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="ransomware/t_how-to-analyze-suspicious-emails.dita" type="task"/>
+        <topicref href="alert-fatigue/t_how-to-create-email-filters.dita" type="task"/>
+        <topicref href="alert-fatigue/t_how-to-receive-campus-security-alerts.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="alert-fatigue/r_structure-for-incoming-emails.dita" type="reference"/>
+        <topicref href="ransomware/r_supplemental-ransomware-info.dita" type="reference"/>
+      </relcell>
+    </relrow>
+  </reltable>
+</map>
