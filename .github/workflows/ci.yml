@@ -23,13 +23,13 @@ jobs:
             fox.jason.extend.css
             net.infotexture.dita-bootstrap
             net.infotexture.dita-bootstrap.lunr
-            fox.jason.prismjs
+            fox.jason.prismjs@4.2.0
             fox.jason.favicon
             fox.jason.open-graph
           project: .github/dita-ot/html.xml
           # If you have a DITAVal, add the following:
           # -- build: | 
-            #  dita -i dita/document.ditamap -o out/html -f html5 --filter=myfilter.ditaval
+        dita -i dita/document.ditamap -o out/html -f html5 --filter=myfilter.ditaval
       - name: Deploy HTML 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
@@ -46,11 +46,9 @@ jobs:
             nodejs -v
           plugins: |
             fox.jason.extend.css
-            fox.jason.prismjs
+            fox.jason.prismjs@4.2.0
           build: |
-              dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes"
-         # If you have a DITAVal, replace the previous line with the following:
-            # dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=myfilter.ditaval
+              dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=myfilter.ditaval
       - name: Upload PDF 📚
         uses: actions/upload-artifact@v4
         with:
