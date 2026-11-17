@@ -12,7 +12,7 @@
   <ditavalref href="faculty.ditaval"/>
 
   <!-- Section Sub-Maps -->
-  <mapref href="two-factor-authentication/two-factor-authentication.ditamap" format="ditamap"/>
+  <mapref href="two-factor-auth/two-factor-auth.ditamap" format="ditamap"/>
   <mapref href="password-management/password-management.ditamap" format="ditamap"/>
   <mapref href="phishing/phishing.ditamap" format="ditamap"/>
   <mapref href="vpn/vpn.ditamap" format="ditamap"/>
