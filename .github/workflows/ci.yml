@@ -28,7 +28,7 @@ jobs:
             fox.jason.open-graph
           project: .github/dita-ot/html.xml
           # If you have a DITAVal, add the following:
-          # -- build: | 
+         -- build: | 
         dita -i dita/document.ditamap -o out/html -f html5 --filter=myfilter.ditaval
       - name: Deploy HTML 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
