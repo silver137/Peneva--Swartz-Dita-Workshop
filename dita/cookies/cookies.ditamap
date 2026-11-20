@@ -3,10 +3,11 @@
 <map id="map-cookies">
   <title>Cookies and Browser Cache</title>
   <topicmeta>
-    <shortdesc>How browser cookies work, how Google services use cookies, and how to clear browser cache and cookies.</shortdesc>
+    <shortdesc>What browser cookies are, types of cookies, how Google services use cookies, and how to clear browser cache and cookies.</shortdesc>
   </topicmeta>
   <topicref href="c_what-are-cookies.dita" type="concept"/>
+  <topicref href="c_types-of-cookies.dita" type="concept"/>
   <topicref href="c_how-google-uses-cookies.dita" type="concept"/>
   <topicref href="t_how-to-clear-cookies-and-cache.dita" type="task"/>
-  <topicref href="r_types-of-cookies.dita" type="reference" audience="staff"/>
+  <topicref href="r_clear-cookies-and-cache-links.dita" type="reference"/>
 </map>
