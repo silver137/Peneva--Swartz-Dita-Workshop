@@ -3,13 +3,13 @@
 <map id="map-autofill-information">
   <title>Autofill Information</title>
   <topicmeta>
-    <shortdesc>Security risks of browser autofill and step-by-step instructions for managing or clearing autofill across browsers.</shortdesc>
+    <shortdesc>What autofill is, best practices, and how to access, change, and delete autofill information across browsers.</shortdesc>
   </topicmeta>
-  <topicref href="c_risks-of-using-autofill.dita" type="concept"/>
-  <topicref href="t_remove-autofill-information-chrome.dita" type="task"/>
-  <topicref href="t_turn-off-and-clear-autofill-information-chrome.dita" type="task"/>
-  <topicref href="t_turn-off-and-clear-autofill-information-iphone.dita" type="task"/>
-  <topicref href="t_turn-off-and-clear-autofill-information-safari.dita" type="task"/>
-  <topicref href="t_turn-off-and-clear-autofill-information-microsoft.dita" type="task"/>
-  <topicref href="r_what-to-use-autofill-for.dita" type="reference" audience="staff"/>
+  <topicref href="c_what-is-autofill.dita" type="concept"/>
+  <topicref href="c_autofill-best-practices.dita" type="concept"/>
+  <topicref href="t_access-autofill-settings.dita" type="task"/>
+  <topicref href="t_change-autofill-information.dita" type="task"/>
+  <topicref href="t_delete-autofill-information.dita" type="task"/>
+  <topicref href="t_fix-autofill-issues.dita" type="task"/>
+  <topicref href="r_autofill-links.dita" type="reference"/>
 </map>
