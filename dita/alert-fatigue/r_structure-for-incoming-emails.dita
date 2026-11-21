@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_structure-for-incoming-emails">
+ <title>Structuring Your Email Inbox</title>
+ <shortdesc>Example files used to filter incoming emails and reduce overwhelming notifications.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+  <refbody>
+    <simpletable id="file-structures">
+      <sthead>
+        <stentry>Type</stentry>
+        <stentry>Structure</stentry>
+        <stentry>Use</stentry>
+      </sthead>
+      <strow>
+        <stentry>Action-Based Structure</stentry>
+        <stentry>Action folder, Awaiting Reply folder, Reference folder, To Read folder</stentry>
+        <stentry>Organizes emails into what you must do and how you can act; encourages you to actively sort through and acknowledge priority notifications.</stentry>
+      </strow>
+      <strow>
+        <stentry>PARA Structure</stentry>
+        <stentry>Projects folder, Areas folder, Resources folder, Archives folder</stentry>
+        <stentry>Organizes emails into a simple and accessible hierarchy for working through short- and long-term assignments while clearing room for immediate alerts.</stentry>
+      </strow>
+      <strow>
+        <stentry>Smart Folders</stentry>
+        <stentry>Custom folders with AI-assisted filters and purposes</stentry>
+        <stentry>Organizes emails into custom folders using AI-assisted filters scanning for specific keywords, email size, subject matter, and sender.</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
+
