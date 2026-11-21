@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_Phishing-prevention">
+  <title>Avoid Phishing Scams</title>
+  <shortdesc>The warning signs for phishing, prevention strategies, common campus scams, and procedures for reporting suspicious messages.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>Phishing attacks across the NC State community arrive via email, text messages, shared Google Docs, and calendar invites, often impersonating trusted university offices or businesses to lure users into clicking harmful links or logging into fake pages. Common campus lures include fake university account warnings, payroll and pension review scams, and fraudulent student job offers. To protect yourself and the university across all campus roles, follow NC State OIT's three core prevention habits: be suspicious of any unsolicited request for login, financial, or contact information; take your time to inspect links and verify that university login URLs begin with shib.ncsu.edu (for Shibboleth) or login.microsoftonline.com (for Entra ID); and ask for help by reporting suspicious messages through Gmail and the NC State Help Desk.</p>
+  </conbody>
+</concept>

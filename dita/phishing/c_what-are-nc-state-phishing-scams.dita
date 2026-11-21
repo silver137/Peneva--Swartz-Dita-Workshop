@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what-are-nc-state-phishing-scams">
+  <title>Recognize Phishing Scams</title>
+  <shortdesc>What phishing scams usually target NC State students, faculty, and staff? Including fake jobs, invoices, and credential theft attempts.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>At NC State University, cybercriminals tailor phishing scams to target students, faculty, and staff with realistic campus scenarios designed to steal Unity credentials, personal data, and money. Students are frequently targeted by fake job scams in which attackers impersonate faculty members and ask students to verify personal information to confirm a work opportunity. Staff members who process departmental payments often receive fraudulent invoices—sometimes generated through legitimate payment platforms such as PayPal or Square—that spoof campus supply vendors. Faculty members are targeted with customized emails praising their research articles and urging them to open shared Google Drive documents that demand login credentials to view the files.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-use-duo-bypass-code">
+  <title>Use a Duo Bypass Code</title>
+  <shortdesc>How can you obtain and use temporary Duo bypass codes when you cannot access your registered authentication device.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>Generating and using Duo bypass codes works the same way for all NC State students, faculty, and staff. Self-service bypass codes are not available; codes are issued only by the NC State Help Desk, are valid for one-time use only, and expire one hour after they are generated.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Contact the NC State Help Desk 24/7 by calling 919-515-4357 (HELP), or submit an IT Service Portal request or email help@ncsu.edu with your availability Monday through Friday from 8 a.m. to 5 p.m. to schedule a Google Meet or Zoom verification meeting.</cmd>
+      </step>
+      <step>
+        <cmd>Sign in to the NC State login prompt with your Unity ID and password.</cmd>
+      </step>
+      <step>
+        <cmd>Select "Other options" or "Enter a Passcode" if Duo automatically sends a push notification (or enter the bypass code directly into the "Second password" field if logging into the VPN).</cmd>
+      </step>
+      <step>
+        <cmd>Select Bypass code, enter your bypass code in the "Bypass code" field, and select "Verify".</cmd>
+      </step>
+      <step>
+        <cmd>When prompted, select "Yes, this is my device" if you are on your own device, or select "No, other people use this device" if you are on a shared computer such as a library workstation.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

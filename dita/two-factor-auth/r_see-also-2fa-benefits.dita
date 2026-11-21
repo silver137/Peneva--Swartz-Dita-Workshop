@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_see-also-2fa-benefits">
+  <title>Benefits of 2FA</title>
+  <shortdesc>MFA concepts, authentication factors, and how MFA protects you against phishing and unauthorized account access.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <refbody>
+    <section>
+      <title>Authentication Factors</title>
+      <p><term>Multi-factor authentication (MFA)</term> requires combining two or more independent credentials from different verification categories:</p>
+      <ul>
+        <li><b>Something you know:</b> Information you memorize, such as your NC State Unity ID password or a PIN.</li>
+        <li><b>Something you have:</b> A physical device in your possession, such as a smartphone running the <keyword>Duo Mobile</keyword> app or a hardware security token.</li>
+        <li><b>Something you are:</b> A biometric trait, such as a fingerprint or facial recognition scan.</li>
+      </ul>
+    </section>
+    <section>
+      <title>How 2FA Protects Your Account</title>
+      <ul>
+        <li><b>Blocks phishing and password leaks:</b> Even if cyber actors steal your password through <term>phishing</term> or a data breach, they still cannot sign in without your second authentication factor.</li>
+        <li><b>Reduces account compromise:</b> According to CISA, enabling <term>MFA</term> makes your accounts <b>99 percent less likely</b> to be hacked.</li>
+        <li><b>Alerts you to suspicious login attempts:</b> Receiving an unexpected <keyword>Duo</keyword> prompt warns you immediately that someone has your password so you can deny the request and change your password.</li>
+      </ul>
+    </section>
+  </refbody>
+</reference>

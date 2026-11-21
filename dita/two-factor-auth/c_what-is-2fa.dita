@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what-is-2fa">
+  <title>What is 2FA</title>
+  <shortdesc>Learn about multifactor authentication, including how it works, common authentication factors, and the security benefits of using MFA to reduce account compromise.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>Multi-factor authentication (MFA)—implemented at NC State University as Duo two-factor authentication (2FA)—is a layered approach to securing data and applications that requires you to present a combination of two or more independent credentials to verify your identity for login. Even if you use a complex password, cyber actors can still compromise passwords through phishing or data leaks. According to the Cybersecurity and Infrastructure Security Agency (CISA), enabling MFA on your accounts makes you 99 percent less likely to be hacked because an unauthorized user who obtains your password still cannot satisfy the second authentication requirement. Core MFA protections apply across all NC State students, faculty, and staff to safeguard university devices, networks, and databases.</p>
+  </conbody>
+</concept>

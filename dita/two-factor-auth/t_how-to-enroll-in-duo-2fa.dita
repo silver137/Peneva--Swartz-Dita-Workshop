@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-enroll-in-duo-2fa">
+  <title>Enroll in Duo 2FA</title>
+  <shortdesc>Step-by-step instructions for how you can enroll in Duo, NC State University's two-factor authentication system.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>Duo enrollment with your Unity ID is mandatory and follows the same process for NC State students, faculty, and staff. You must have at least one device—such as a mobile phone, tablet, or hardware security key—available before you begin. NC State encourages using the Duo Mobile app as your primary authentication method for consistent reliability.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Go to the NC State Duo Enrollment and Device Management page in a web browser.</cmd>
+      </step>
+      <step>
+        <cmd>Log in with your NC State Unity ID and password.</cmd>
+      </step>
+      <step>
+        <cmd>Follow the on-screen instructions to register your mobile phone, tablet, or security key and complete the enrollment process.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-identify-phishing-attempts">
+  <title>Identify Phishing Attempts</title>
+  <shortdesc>How can you verify senders, inspect links, identify phishing red flags, and handle suspicious emails safely.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>Inspecting sender addresses, links, and urgency red flags protects students, faculty, and staff from credential theft and malware. Always pause and verify suspicious messages before clicking any link or replying.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Verify the sender's full email address rather than trusting the display name, and contact known individuals through a separate trusted channel if a message seems unusual.</cmd>
+      </step>
+      <step>
+        <cmd>Hover your cursor over hyperlinked text—or carefully press and hold on a mobile device—to inspect the actual destination URL before clicking.</cmd>
+      </step>
+      <step>
+        <cmd>Check login page URLs before entering your Unity credentials to verify that the address starts with shib.ncsu.edu (or login.microsoftonline.com for Entra ID).</cmd>
+      </step>
+      <step>
+        <cmd>Watch for classic phishing red flags, including a false sense of urgency, unexpected messages, offers that are too good to be true, generic greetings, and typos.</cmd>
+      </step>
+      <step>
+        <cmd>Report suspicious messages via Gmail's Report phishing button, by emailing phishing@ncsu.edu, or by contacting the NC State Help Desk at 919-515-HELP (4357).</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

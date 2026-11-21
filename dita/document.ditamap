@@ -28,7 +28,7 @@
   <!-- Relationship Table -->
   <reltable>
     <relheader>
-      <relcolspec type="concept"/>
+      <relcolspec type="concept"/> 
       <relcolspec type="task"/>
       <relcolspec type="reference"/>
     </relheader>

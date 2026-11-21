@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-add-new-phone-to-duo">
+  <title>Add a New Phone to Duo</title>
+  <shortdesc>Reconnecting or transferring Duo authentication when replacing, losing, or upgrading your phone.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <prereq>
+      <p>Before starting, check which scenario applies to your new phone:</p>
+      <ul>
+        <li><b>You had the <keyword>Duo Mobile</keyword> app on your old phone and kept the same phone number:</b> Follow the steps below to reactivate the <keyword>Duo Mobile</keyword> app on your new phone.</li>
+        <li><b>You did not have the <keyword>Duo Mobile</keyword> app on your old phone (text message codes only) and kept the same phone number:</b> You do not need to follow these instructions; you will continue receiving two-factor verification codes by text automatically without taking any action.</li>
+        <li><b>Your phone number changed with your new phone:</b> Contact the NC State Help Desk at 919-515-4357 (HELP) for further instructions on setting up your new phone number for two-factor authentication.</li>
+      </ul>
+    </prereq>
+    <context>
+      <p>Reconnecting <keyword>Duo Mobile</keyword> on a replacement phone with the same phone number follows the same process for all <ph audience="student faculty staff">NC State students, faculty, and staff</ph>. Complete the browser steps on a computer so you can scan the activation QR code with your new phone.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>On your computer, open a web browser and go to <xref href="https://docs.shib.ncsu.edu/duoenroll/" format="html" scope="external">https://docs.shib.ncsu.edu/duoenroll/</xref>.</cmd>
+      </step>
+      <step>
+        <cmd>Sign in with your NC State Unity ID and password.</cmd>
+      </step>
+      <step>
+        <cmd>Leave the <uicontrol>Passcode</uicontrol> field empty, select <uicontrol>Enter a Passcode</uicontrol>, and select <uicontrol>Text me new codes</uicontrol> in the blue box at the bottom of the page.</cmd>
+      </step>
+      <step>
+        <cmd>Enter the verification code texted to your phone into the <uicontrol>Login</uicontrol> field and select <uicontrol>Log in</uicontrol> to open the <wintitle>My Settings and Device</wintitle> page.</cmd>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Device Options</uicontrol> next to your old phone entry and select <uicontrol>Reactivate DUO Mobile</uicontrol> to display a QR code.</cmd>
+      </step>
+      <step>
+        <cmd>Open the <keyword>Duo Mobile</keyword> app on your new phone, follow the prompts to add a new account, and scan the QR code displayed on your computer screen.</cmd>
+      </step>
+    </steps>
+    <postreq>
+      <p>After completing these steps, your new phone will be active for Duo authentication. You can now use the <keyword>Duo Mobile</keyword> app to receive verification codes.</p>
+    </postreq>
+  </taskbody>
+</task>
