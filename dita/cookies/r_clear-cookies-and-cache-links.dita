@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_clear-cookies-and-cache-links">
+  <title>Windows and Safari Cookies Tutorials</title>
+
+  <shortdesc>Links to tutorials on how to clear cookies in Windows and Safari
+  browsers.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <refbody>
+    <section><title>Windows and Safari Cookie Tutorial Links</title>
+    <p><b>Note:</b> Choose your MacOs version in the drop down menu at the top
+    of the screen before following the instructions.</p> <simpletable>
+        <sthead>
+          <stentry>Browser</stentry>
+
+          <stentry>Link</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>Microsoft Edge</stentry>
+
+          <stentry><xref format="html"
+          href="https://support.microsoft.com/en-us/edge/view-and-delete-browser-history-in-microsoft-edge"
+          scope="external">View and Delete Microsoft Edge Browser
+          History</xref></stentry>
+        </strow>
+
+        <strow>
+          <stentry>Safari</stentry>
+
+          <stentry><xref format="html"
+          href="https://support.apple.com/guide/safari/clear-your-browsing-history-sfri47acf5d6/18.0/mac/15.0"
+          scope="external">Clear Safari Browsing History on
+          Mac</xref></stentry>
+        </strow>
+      </simpletable></section>
+  </refbody>
+</reference>
