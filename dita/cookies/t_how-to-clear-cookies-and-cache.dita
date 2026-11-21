@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="t_how-to-clear-cookies-and-cache.dita">
+  <title>Clear Cookies and Cache</title>
+
+  <shortdesc>Learn how to clear your device’s cookies and cache from
+  Chrome.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / Google Account Help</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <taskbody>
+    <prereq>To clear your cookies and cache from Microsoft Edge and Safari,
+    see the links below.</prereq>
+
+    <context>How to clear your cache and cookies.</context>
+
+    <steps>
+      <step>
+        On your computer, 
+
+        <cmd>open Chrome.</cmd>
+
+         
+      </step>
+
+      <step>
+        At the top right, 
+
+        <cmd>select “More” (three vertical dots) and then “Delete browsing
+        data.”</cmd>
+
+         
+      </step>
+
+      <step>
+        <cmd>Choose a time range,</cmd>
+
+        <stepxmp>like “Last hour” or “All time.”</stepxmp>
+      </step>
+
+      <step>
+        <cmd>Select cookies and other site data.</cmd>
+      </step>
+
+      <step>
+        <cmd>Check other items you want to delete.</cmd>
+      </step>
+
+      <step>
+        To confirm, 
+
+        <cmd>select “Delete data.”</cmd>
+
+         
+      </step>
+    </steps>
+  </taskbody>
+</task>
