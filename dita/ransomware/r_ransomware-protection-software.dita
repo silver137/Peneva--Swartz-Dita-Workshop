@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_ransomware-protection-software">
+  <title>Ransomware Protection Software</title>
+  <shortdesc>Software used to prevent ransomware attacks on individual
+  devices.</shortdesc>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <refbody>
+    <simpletable id="ransomware-software">
+      <sthead>
+        <stentry>Software</stentry>
+        <stentry>Description</stentry>
+      </sthead>
+      <strow>
+        <stentry>Bitdefender Antivirus Plus</stentry>
+        <stentry>Eliminates known ransomware, analyzes suspicious behaviors
+        internally, and initiates file recovery.</stentry>
+      </strow>
+      <strow>
+        <stentry>ZoneAlarm Anti-Ransomware</stentry>
+        <stentry>Restores damaged files and contains antivirus features, but
+        limits keylogger protection.</stentry>
+      </strow>
+      <strow>
+        <stentry>NeuShield Data Sentinel</stentry>
+        <stentry>Recovers high-importance files and bypasses both encrypted
+        and non-encrypted ransomware, but cannot recover all files</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
