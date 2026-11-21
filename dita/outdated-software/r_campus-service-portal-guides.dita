@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_campus-service-portal-guides">
+ <title>Campus Service Portal</title>
+ <shortdesc>NC State's IT Service Portal contains guides for updating and managing outdated software.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+  <refbody>
+    <simpletable id="service-guides">
+      <sthead>
+        <stentry>Guide</stentry>
+        <stentry>Use</stentry>
+      </sthead>
+      <strow>
+        <stentry>Self Service Windows OS update</stentry>
+        <stentry>Update the Windows operating system on institutional or personal devices.</stentry>
+      </strow>
+      <strow>
+        <stentry>Microsoft Windows Software Updates and Patching</stentry>
+        <stentry>Explore the details and benefits of the latest Windows update.</stentry>
+      </strow>
+      <strow>
+        <stentry>Software Application Support Policy for the OIT Managed Desktop Service</stentry>
+        <stentry>Learn what the campus Office of Information Technology can assist with, what services are limited, and what services are not available.</stentry>
+      </strow>
+      <strow>
+        <stentry>Global Campus Jamf Blueprint for controlling minor Apple OS updates</stentry>
+        <stentry>Understand how campus schedules and approves minor updates to Apple devices.</stentry>
+      </strow>
+    </simpletable>
+    </refbody>
+</reference>
