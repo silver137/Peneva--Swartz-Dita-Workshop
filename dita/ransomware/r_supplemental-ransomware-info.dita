@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_supplemental-ransomware-info">
+  <title>Supplemental Ransomware Information</title>
+  <shortdesc>Additional resources to learn in-depth information for
+  approaching, preventing, and raising awareness of ransomware
+  attacks.</shortdesc>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <refbody>
+    <simpletable id="ransomware-resources">
+      <sthead>
+        <stentry>Resource</stentry>
+        <stentry>Description</stentry>
+      </sthead>
+      <strow>
+        <stentry>#StopRansomware Guide</stentry>
+        <stentry>Comprehensive description of specific ransomware attacks, the
+        abilities of certain malware, impacts on organizations, and best
+        practices to respond to an ongoing attack.</stentry>
+      </strow>
+      <strow>
+        <stentry>FBI Cyber Investigative Report</stentry>
+        <stentry>Specific information and limits of how the FBI can work with
+        organizations to respond to ransomware attacks.</stentry>
+      </strow>
+      <strow>
+        <stentry>Preparing for a Cyber Incident (FBI)</stentry>
+        <stentry>Benefits of working with the FBI to respond to ransomware
+        attacks.</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>
