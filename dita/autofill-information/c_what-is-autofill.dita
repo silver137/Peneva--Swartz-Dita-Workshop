@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_what-is-autofill">
+  <title>What Is Autofill</title>
+
+  <shortdesc>Autofill allows users to fill in information quickly for online
+  forms and documents.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / Lenovo</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <p>Autofill is a feature in many browsers, operating systems, and other
+    programs that allows users to quickly complete online forms or documents.
+    Autofill stores your data like name, address, contact details, payment
+    methods, and more. With this feature enabled, you don’t need to manually
+    enter the same information over and over again.</p>
+
+    <p>Autofill works by extracting data from the browser or system cookie.
+    When it finds a match for the field on a particular page, it will
+    automatically fill in all the required information for you. The browser
+    stores your data securely so that only you have access to it. You can also
+    specify which sites should have access to your stored data and which sites
+    shouldn’t have access.</p>
+  </conbody>
+</concept>
