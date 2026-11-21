@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_what-is-a-data-breach">
+ <title>Data Breach</title>
+ <shortdesc>A data breach is an unauthorized leak or release of information to the public, often with the intent of harming an organization or individual.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>A data breach is any instance where private data becomes accidentally or purposefully leaked and accessible to the public. Data breaches can occur when security systems grow outdated and become vulnerable to attacks from malicious actors. Malicious actors may negotiate a ransom, or release the data to harm the reputation of an organization or individual. Data breaches can also occur when employees of an institution purposefully or accidentally share private data to an unauthorized party. Organizations typically develop an incident response plan immediately after noticing a data breach to prevent further damage such as ransomware attacks and phishing emails that attempt to convince users to share data. Data breaches often affected hundreds to thousands of users, so you must be aware of the risks of a data breach.</p>
+ </conbody>
+</concept>
