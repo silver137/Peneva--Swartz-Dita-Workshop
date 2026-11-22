@@ -11,6 +11,8 @@
   </copyright>
  </prolog>
   <refbody>
+<section><title>Deadlines to Complete Data Security Training</title>
+    <p>Complete the NC State Campus Data Security Training modules through REPORTER by the following deadlines depending on your classification with the university.</p> 
     <simpletable id="training-requirements">
       <sthead>
         <stentry>Audience</stentry>
@@ -28,6 +30,6 @@
         <stentry>Current Staff and Faculty</stentry>
         <stentry>Announced each fall</stentry>
       </strow>
-    </simpletable>
+    </simpletable></section>
   </refbody>
 </reference>
