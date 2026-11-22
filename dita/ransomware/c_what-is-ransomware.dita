@@ -11,6 +11,14 @@
   </copyright>
  </prolog>
  <conbody>
-  <p>Ransomware is a harmful software cyber actors use to block access to your files and steal data unless receiving some form of ransom. Attacks can affect individuals, but are increasingly impacting government agencies, businesses, and universities. You must be aware of what data ransomware actors may steal. If you are a student, actors may steal and leak your financial aid data, medical records, and payment methods. If you are a staff member, actors may steal and leak your salary and tax information, as well as administrative records. If you are a faculty member, actors may steal and leak your research papers and data, grant applications, and employment benefits. One ransomware attack may allow cyber actors to infiltrate university systems and leak your data, or the data of other students, faculty, and staff. You must stay vigilant and react to potential ransomware attacks primarily through phishing emails.</p>
+  <p>Ransomware is a harmful software cyber actors use to block access to your files and steal data unless receiving some form of ransom. Attacks can affect individuals, but are increasingly impacting government agencies, businesses, and universities. You must be aware of what data ransomware actors may steal.</p>
+
+<note audience="students">If you are a student, actors may steal and leak your financial aid data, medical records, and payment methods.</note>
+
+<note audience="staff">If you are a staff member, actors may steal and leak your salary and tax information, as well as administrative records.</note>
+
+<note audience="faculty">If you are a faculty member, actors may steal and leak your research papers and data, grant applications, and employment benefits.</note>
+
+<p>One ransomware attack may allow cyber actors to infiltrate university systems and leak your data, or the data of other students, faculty, and staff. You must stay vigilant and react to potential ransomware attacks primarily through phishing emails.</p>
  </conbody>
 </concept>
