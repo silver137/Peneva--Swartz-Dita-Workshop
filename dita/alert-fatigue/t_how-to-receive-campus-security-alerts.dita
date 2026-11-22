@@ -16,8 +16,11 @@
       <step>
        <cmd>Sign into MyPack Portal with your Unity ID and Password.</cmd>
      </step>
-      <step>
-       <cmd>Select the “For Students” tab. / Select the “Employee Self-Service” tab </cmd>
+      <step audience="students">
+       <cmd>Select the “For Students” tab.</cmd>
+     </step>
+      <step audience="staff faculty">
+       <cmd> Select the “Employee Self-Service” tab. </cmd>
      </step>
       <step>
        <cmd>Locate the Personal Information group.</cmd>
