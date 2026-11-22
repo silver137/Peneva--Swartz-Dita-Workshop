@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="t_access-autofill-settings">
+  <title>Manage Saved Form Information</title>
+
+  <shortdesc/>
+
+  <prolog>
+    <author>Makayla Muñoz / Google Chrome Help</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <taskbody>
+    <p>To manage your saved autofill information:</p>
+
+    <steps>
+      <p>
+        <step>On your computer,<cmd>open Chrome.</cmd></step>
+
+        <step>At the top right,<cmd>select<menucascade>
+            <uicontrol>More</uicontrol>
+
+            <uicontrol>Passwords and autofill</uicontrol>
+          </menucascade>.</cmd> You can also select your <menuscade>
+            <uicontrol>profile picure</uicontrol>
+
+            <uicontrol>Passwords and autofill</uicontrol>
+          </menuscade>.</step>
+      </p>
+    </steps>
+
+    <p>You can manage your autofill information for forms like:</p>
+
+    <p>
+      <ul>Google Password Manager</ul>
+
+      <ul>Payments</ul>
+
+      <ul>Contact Information</ul>
+
+      <ul>Identity Documents</ul>
+
+      <ul>Travel</ul>
+    </p>
+  </taskbody>
+</task>
