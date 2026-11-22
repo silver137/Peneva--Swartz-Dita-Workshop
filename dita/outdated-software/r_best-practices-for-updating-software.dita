@@ -11,7 +11,9 @@
   </copyright>
  </prolog>
   <refbody>
-    <simpletable id="best-practices">
+ <section>
+      <title>Best Practices</title>
+<p>To stay up-to-date with your software and operating systems, you should understand the following practices and how they benefit you by protecting your data.<simpletable id="best-practices">
       <sthead>
         <stentry>Action</stentry>
         <stentry>Benefit</stentry>
@@ -28,6 +30,6 @@
         <stentry>Watch out for security threats</stentry>
         <stentry>Informs you and keeps your data safe from security issues, breaches, and cybersecurity attacks on institutional and personal technology.</stentry>
       </strow>
-    </simpletable>
+    </simpletable></section>
   </refbody>
 </reference>
