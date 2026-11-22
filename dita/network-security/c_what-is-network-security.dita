@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_what-is-network-security">
+  <title>What is Network Security?</title>
+
+  <shortdesc>Network security protects networks and the data they carry from
+  unintended access and use.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / GeeksforGeeks</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <p>Network security protects networks and the data they carry from
+    unauthorized access, misuse, and cyberattacks. It ensures systems remain
+    confidential, available, and trustworthy across all digital environments.
+    Its features are:</p>
+
+    <ul>
+      Prevents unauthorized access and cyber threats
+    </ul>
+
+    <ul>
+      Protects data integrity, confidentiality, and availability 
+    </ul>
+
+    <ul>
+      Uses layered security controls across devices, users, and systems
+    </ul>
+
+    <ul>
+      Ensures safe communication and reliable network operations 
+    </ul>
+  </conbody>
+</concept>
