@@ -22,7 +22,7 @@
      <step>
        <cmd>Select Windows Update if available; if not, your system is up-to-date.</cmd>
        <info><note conref="t_how-to-update-mac-operating-system.dita#t_how-to-update-mac-operating-system/upload_note"/></info>
-       <info><note>Click “Get the latest updates as soon as they’re available” to turn on or off automatic updates.</note></info>
+       <info><note>Click “Get the latest updates as soon as they are available” to turn on or off automatic updates.</note></info>
      </step>
    </steps>
  </taskbody>
