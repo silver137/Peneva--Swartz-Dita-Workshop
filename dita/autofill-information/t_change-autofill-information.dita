@@ -8,7 +8,7 @@
   in Chrome.</shortdesc>
 
   <prolog>
-    <author>Makayla Muñoz</author>
+    <author>Makayla Muñoz / Google Chrome Help</author>
 
     <copyright>
       <copyryear year="2026"/>
@@ -55,8 +55,8 @@
               <choption>Edit or Delete</choption>
 
               <chdesc>To the right of the saved info, select
-              <uicontrol>More</uicontrol> (three vertical dots) then
-              <uicontrol>Edit or Delete</uicontrol>.</chdesc>
+              <menucascade><uicontrol>More</uicontrol>
+              <uicontrol>Edit or Delete</uicontrol></menucascade>.</chdesc>
             </chrow>
           </choicetable></step>
       </steps>
