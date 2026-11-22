@@ -11,6 +11,11 @@
   </copyright>
  </prolog>
  <conbody>
-  <p>Alert fatigue is a state of mental exhaustion resulting from a high volume of low-priority and non-actionable alerts, such as redundant email updates or simple, informative notifications. Persistent alerts desensitize users into ignoring or disregarding high-priority alerts warning users of serious cybersecurity threats. Besides the mental state users enter when facing alert fatigue, constant low-priority alerts shape mistrust in alert systems to provide actionable notifications. Malicious actors may weaponize alert fatigue to release high volumes of low-priority alerts using an alert storm to catch users off-guard when compromising data. In a university setting, students may experience alert fatigue with constant emails and notifications from Gmail, Moodle, Canvas, and other channels. Staff may experience alert fatigue when communicating between departments, individual staff members, and outside organizations. Faculty may experience alert fatigue from student inquiries, administrative meetings, and communication with colleagues on research projects. Students, faculty, and staff must act to avoid alert fatigue to respond to true cybersecurity threats.</p>
+  <p>Alert fatigue is a state of mental exhaustion resulting from a high volume of low-priority and non-actionable alerts, such as redundant email updates or simple, informative notifications. Persistent alerts desensitize users into ignoring or disregarding high-priority alerts warning users of serious cybersecurity threats. Besides the mental state users enter when facing alert fatigue, constant low-priority alerts shape mistrust in alert systems to provide actionable notifications. Malicious actors may weaponize alert fatigue to release high volumes of low-priority alerts using an alert storm to catch users off-guard when compromising data. Students, faculty, and staff must act to avoid alert fatigue to respond to true cybersecurity threats.</p>
+
+<note audience="students">Students may experience alert fatigue with constant emails and notifications from Gmail, Moodle, Canvas, and other channels.</note>
+
+<note audience="staff faculty">Staff and faculty may experience alert fatigue from student inquiries, administrative meetings, and communication with colleagues on research projects.</note>
+
  </conbody>
 </concept>
