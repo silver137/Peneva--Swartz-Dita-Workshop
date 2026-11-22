@@ -12,6 +12,8 @@
     </copyright>
   </prolog>
   <refbody>
+   <section>
+      <title>Ransomware Protection Software</title><p>While NC State uses multiple protection softwares and systems to protect university data, ransomware attacks can still occur on your own devices and pose a threat to the accounts you logged into on those devices. Consider using the following software to protect your data.</p>
     <simpletable id="ransomware-software">
       <sthead>
         <stentry>Software</stentry>
@@ -32,6 +34,6 @@
         <stentry>Recovers high-importance files and bypasses both encrypted
         and non-encrypted ransomware, but cannot recover all files</stentry>
       </strow>
-    </simpletable>
+    </simpletable></section>
   </refbody>
 </reference>
