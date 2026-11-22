@@ -33,8 +33,8 @@
       <step>
         At the top right, 
 
-        <cmd>select “More” (three vertical dots) and then “Delete browsing
-        data.”</cmd>
+        <cmd>select <uicontrol>More</uicontrol> (three vertical dots) and then <uicontrol>Delete browsing
+        data</uicontrol>.</cmd>
 
          
       </step>
@@ -42,7 +42,7 @@
       <step>
         <cmd>Choose a time range,</cmd>
 
-        <stepxmp>like “Last hour” or “All time.”</stepxmp>
+        <stepxmp>like <uicontrol>Last hour</uicontrol> or <uicontrol>All time</uicontrol>.</stepxmp>
       </step>
 
       <step>
@@ -56,7 +56,7 @@
       <step>
         To confirm, 
 
-        <cmd>select “Delete data.”</cmd>
+        <cmd>select <uicontrol>Delete data</uicontrol>.</cmd>
 
          
       </step>
