@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="t_change-autofill-information">
+  <title>Add, edit or delete your saved autofill info in Chrome</title>
+
+  <shortdesc>Learn how to add, edit, and delete existing autofill information
+  in Chrome.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <taskbody>
+    <p><b>Note:</b>If your payment method is saved in Google Wallet, you'll
+    need to edit or delete it in Google Wallet.</p>
+
+    <p>
+      <steps>
+        <step>
+          <cmd>Select the info that you want to update,</cmd>
+
+          <stepxmp>like payments, addresses or contact info.</stepxmp>
+        </step>
+
+        <step><cmd>Under each category, you can turn <uicontrol>Save and
+        fill</uicontrol> on or off.</cmd> This allows you turn autofill off
+        completely.</step>
+
+        <step>To add, edit or delete autofill information, follow the steps in
+        the table: <choicetable>
+            <chhead>
+              <choptionhd>Option</choptionhd>
+
+              <chdeschd>Description</chdeschd>
+            </chhead>
+
+            <chrow>
+              <choption>Add</choption>
+
+              <chdesc>
+                <p>At the top right of the info type, select
+                <uicontrol>Add</uicontrol>.</p>
+
+                <note>Some menus have additional options and info types to
+                choose from.</note>
+              </chdesc>
+            </chrow>
+
+            <chrow>
+              <choption>Edit or Delete</choption>
+
+              <chdesc>To the right of the saved info, select
+              <uicontrol>More</uicontrol> (three vertical dots) then
+              <uicontrol>Edit or Delete</uicontrol>.</chdesc>
+            </chrow>
+          </choicetable></step>
+      </steps>
+
+      <p>If you add, edit or delete info and you're signed in to Chrome with
+      your Google Account, your changes will also show up on your other
+      devices where you're signed in to Chrome with the same account.</p>
+    </p>
+  </taskbody>
+</task>
