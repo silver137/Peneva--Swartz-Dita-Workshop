@@ -11,6 +11,8 @@
   </copyright>
  </prolog>
   <refbody>
+   <section>
+      <title>File Structures</title><p>Using structured files can reduce the clutter in your email inbox and help bring your attention to the content and urgency of each email while reducing alert fatigue The following examples are only a few structures to consider.</p>
     <simpletable id="file-structures">
       <sthead>
         <stentry>Type</stentry>
@@ -32,7 +34,7 @@
         <stentry>Custom folders with AI-assisted filters and purposes</stentry>
         <stentry>Organizes emails into custom folders using AI-assisted filters scanning for specific keywords, email size, subject matter, and sender.</stentry>
       </strow>
-    </simpletable>
+    </simpletable></section>
   </refbody>
 </reference>
 
