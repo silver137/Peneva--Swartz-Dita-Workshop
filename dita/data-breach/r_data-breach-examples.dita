@@ -11,6 +11,8 @@
   </copyright>
  </prolog>
   <refbody>
+<section><title>Examples of University Data Breaches</title>
+    <p>Data breaches affect both small and large audiences depending on the nature of the breach. Consider the following examples from universities to understand how data breaches affect thousands of users in some cases, and only a handful of users in others.</p> 
     <simpletable id="data-breaches">
       <sthead>
         <stentry>Organization</stentry>
@@ -37,6 +39,6 @@
         <stentry>September 18, 2025</stentry>
         <stentry>54</stentry>
       </strow>
-    </simpletable>
+    </simpletable></section>
   </refbody>
 </reference>
