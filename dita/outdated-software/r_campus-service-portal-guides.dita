@@ -11,6 +11,7 @@
   </copyright>
  </prolog>
   <refbody>
+  <section><title>NC State OIT Guides</title> <p>NC State's Office of Information Technology frequently lists guides aimed for students, faculty, and staff, to understand how to update your software and devices, a long with why updating is important. The following table shows a few examples of guides OIT published.</p>
     <simpletable id="service-guides">
       <sthead>
         <stentry>Guide</stentry>
@@ -32,6 +33,6 @@
         <stentry>Global Campus Jamf Blueprint for controlling minor Apple OS updates</stentry>
         <stentry>Understand how campus schedules and approves minor updates to Apple devices.</stentry>
       </strow>
-    </simpletable>
+    </simpletable></section>
     </refbody>
 </reference>
