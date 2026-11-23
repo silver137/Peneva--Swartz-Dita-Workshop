@@ -6,12 +6,22 @@
     <shortdesc>Comprehensive cybersecurity guidance, procedures, and reference resources for NC State students, staff, and faculty.</shortdesc>
   </topicmeta>
 
-<!-- Structure Map analysis is in Makayla's Google Drive folder -->
-
-  <!-- Audience Filters -->
-  <ditavalref href="students.ditaval"/>
-  <ditavalref href="staff.ditaval"/>
-  <ditavalref href="faculty.ditaval"/>
+  <!-- Audience Filters (with suffixes so builds don't overwrite each other) -->
+  <ditavalref href="students.ditaval">
+    <ditavalmeta>
+      <dvrResourceSuffix>-students</dvrResourceSuffix>
+    </ditavalmeta>
+  </ditavalref>
+  <ditavalref href="staff.ditaval">
+    <ditavalmeta>
+      <dvrResourceSuffix>-staff</dvrResourceSuffix>
+    </ditavalmeta>
+  </ditavalref>
+  <ditavalref href="faculty.ditaval">
+    <ditavalmeta>
+      <dvrResourceSuffix>-faculty</dvrResourceSuffix>
+    </ditavalmeta>
+  </ditavalref>
 
   <!-- Landing Page -->
   <topicref href="index.dita"/>
@@ -40,97 +50,26 @@
     <mapref href="autofill-information/autofill-information.ditamap" format="ditamap"/>
   </topichead>
 
-  <!-- Relationship Table 1 -->
+  <!-- Master Relationship Table: Cross-Module Overview -->
   <reltable>
     <relheader>
-      <relcolspec type="concept"/> 
+      <relcolspec type="concept"/>
       <relcolspec type="task"/>
       <relcolspec type="reference"/>
     </relheader>
 
-    <!-- Row 1: Cookies, VPN, 2FA -->
-    <relrow>
-      <relcell>
-        <topicref href="cookies/c_what-are-cookies.dita" type="concept"/>
-        <topicref href="cookies/c_types-of-cookies.dita" type="concept"/>
-        <topicref href="cookies/c_how-google-uses-cookies.dita" type="concept"/>
-        <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept"/>
-      </relcell>
-      <relcell>
-        <topicref href="cookies/t_how-to-clear-cookies-and-cache.dita" type="task"/>
-        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
-      </relcell>
-      <relcell/>
-    </relrow>
-
-    <!-- Row 2: Autofill, Password Management, Data Breach -->
-    <relrow>
-      <relcell>
-        <topicref href="autofill-information/c_autofill-best-practices.dita" type="concept"/>
-        <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept"/>
-        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept"/>
-      </relcell>
-      <relcell>
-        <topicref href="autofill-information/t_change-autofill-information.dita" type="task"/>
-        <topicref href="autofill-information/t_delete-autofill-information.dita" type="task"/>
-      </relcell>
-      <relcell>
-        <topicref href="autofill-information/r_autofill-links.dita" type="reference"/>
-        <topicref href="password-management/r_see-also-password-security-best-practices.dita" type="reference"/>
-        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference"/>
-        <topicref href="data-breach/r_data-breach-examples.dita" type="reference"/>
-      </relcell>
-    </relrow>
-
-    <!-- Row 3: Incident Response, Phishing, Ransomware, Data Breach, Network Security, VPN, 2FA -->
-    <relrow>
-      <relcell>
-        <topicref href="incident-response/c_what-is-incident-response.dita" type="concept" audience="staff faculty"/>
-        <topicref href="phishing/c_what-is-phishing.dita" type="concept"/>
-        <topicref href="ransomware/c_what-is-ransomware.dita" type="concept"/>
-        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept"/>
-        <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
-      </relcell>
-      <relcell>
-        <topicref href="incident-response/t_report-an-incident.dita" type="task" audience="students faculty"/>
-        <topicref href="phishing/t_how-to-report-phishing-email.dita" type="task"/>
-        <topicref href="vpn/t_how-to-connect-to-nc-state-vpn.dita" type="task"/>
-      </relcell>
-      <relcell>
-        <topicref href="incident-response/r_incident-response-technologies.dita" type="reference" audience="staff"/>
-        <topicref href="phishing/r_see-also-reporting-cyber-incidents.dita" type="reference" audience="staff faculty"/>
-      </relcell>
-    </relrow>
-
-    <!-- Row 4: Network Security, 2FA, Phishing, Password Management, Outdated Software -->
-    <relrow>
-      <relcell>
-        <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
-        <topicref href="outdated-software/c_what-is-outdated-software.dita" type="concept"/>
-        <topicref href="two-factor-authentication/c_what-is-2fa.dita" type="concept"/>
-      </relcell>
-      <relcell>
-        <topicref href="network-security/t_report-an-incident-network-security.dita" type="task"/>
-        <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task"/>
-        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-mac.dita" type="task"/>
-        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-windows.dita" type="task"/>
-      </relcell>
-      <relcell>
-        <topicref href="network-security/r_ncsu-security-links.dita" type="reference"/>
-        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference"/>
-      </relcell>
-    </relrow>
-
-    <!-- Row 5: VPN, 2FA Duo Authentication -->
+    <!-- 1. Remote Access & Duo 2FA -->
     <relrow>
       <relcell>
         <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept"/>
         <topicref href="vpn/c_what-is-vpn-encryption.dita" type="concept"/>
+        <topicref href="two-factor-authentication/c_what-is-2fa.dita" type="concept"/>
       </relcell>
       <relcell>
         <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task"/>
         <topicref href="vpn/t_how-to-connect-to-nc-state-vpn.dita" type="task"/>
         <topicref href="vpn/t_how-to-authenticate-vpn-with-duo.dita" type="task"/>
+        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
         <topicref href="two-factor-authentication/t_how-to-use-duo-bypass-code.dita" type="task"/>
       </relcell>
       <relcell>
@@ -139,13 +78,45 @@
       </relcell>
     </relrow>
 
-    <!-- Row 6: Ransomware, Alert Fatigue, Email Filtering -->
+    <!-- 2. Password Management & Browser Autofill -->
     <relrow>
       <relcell>
+        <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept"/>
+        <topicref href="password-management/c_what-is-a-strong-password.dita" type="concept"/>
+        <topicref href="autofill-information/c_autofill-best-practices.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="autofill-information/t_change-autofill-information.dita" type="task"/>
+        <topicref href="autofill-information/t_delete-autofill-information.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="password-management/r_see-also-password-security-best-practices.dita" type="reference"/>
+        <topicref href="autofill-information/r_autofill-links.dita" type="reference"/>
+      </relcell>
+    </relrow>
+
+    <!-- 3. Browser Cookies & Session Privacy -->
+    <relrow>
+      <relcell>
+        <topicref href="cookies/c_what-are-cookies.dita" type="concept"/>
+        <topicref href="cookies/c_types-of-cookies.dita" type="concept"/>
+        <topicref href="cookies/c_how-google-uses-cookies.dita" type="concept"/>
+      </relcell>
+      <relcell>
+        <topicref href="cookies/t_how-to-clear-cookies-and-cache.dita" type="task"/>
+      </relcell>
+      <relcell/>
+    </relrow>
+
+    <!-- 4. Phishing, Suspicious Emails & Alert Management -->
+    <relrow>
+      <relcell>
+        <topicref href="phishing/c_what-is-phishing.dita" type="concept"/>
         <topicref href="ransomware/c_what-is-ransomware.dita" type="concept"/>
         <topicref href="alert-fatigue/c_what-is-alert-fatigue.dita" type="concept"/>
       </relcell>
       <relcell>
+        <topicref href="phishing/t_how-to-report-phishing-email.dita" type="task"/>
         <topicref href="ransomware/t_how-to-analyze-suspicious-emails.dita" type="task"/>
         <topicref href="alert-fatigue/t_how-to-create-email-filters.dita" type="task"/>
         <topicref href="alert-fatigue/t_how-to-receive-campus-security-alerts.dita" type="task"/>
@@ -156,47 +127,52 @@
       </relcell>
     </relrow>
 
-    <!-- Row 7 -->
+    <!-- 5. Data Breaches, Ransomware & Campus Incident Reporting -->
     <relrow>
       <relcell>
-        <topicref href="autofill-information/c_autofill-best-practices.dita" type="concept" linking="targetonly"/>
-        <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept" linking="sourceonly"/>
-        <topicref href="password-management/c_what-is-a-strong-password.dita" type="concept" linking="sourceonly"/>
-        <topicref href="phishing/c_what-is-phishing.dita" type="concept" linking="sourceonly"/>
+        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept"/>
+        <topicref href="ransomware/c_types-of-ransomware.dita" type="concept"/>
+        <topicref href="incident-response/c_types-of-incidents.dita" type="concept"/>
       </relcell>
       <relcell>
-        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>
-        <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
-        <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
+        <topicref href="incident-response/t_report-an-incident.dita" type="task"/>
       </relcell>
-      <relcell/>
+      <relcell>
+        <topicref href="data-breach/r_data-breach-examples.dita" type="reference"/>
+        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference"/>
+      </relcell>
     </relrow>
 
-    <!-- Row 8 -->
-    <relrow>
+    <!-- 6. Institutional Incident Response (Staff & Faculty) -->
+    <relrow audience="staff faculty">
       <relcell>
-        <topicref href="incident-response/c_types-of-incidents.dita" type="concept" linking="targetonly"/>
-        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept" linking="sourceonly"/>
-        <topicref href="ransomware/c_types-of-ransomware.dita" type="concept" linking="sourceonly"/>
+        <topicref href="incident-response/c_what-is-incident-response.dita" type="concept"/>
       </relcell>
-      <relcell/>
-      <relcell/>
+      <relcell>
+        <topicref href="incident-response/t_report-an-incident.dita" type="task"/>
+      </relcell>
+      <relcell>
+        <topicref href="phishing/r_see-also-reporting-cyber-incidents.dita" type="reference"/>
+        <topicref href="incident-response/r_incident-response-technologies.dita" type="reference" audience="staff"/>
+      </relcell>
     </relrow>
 
-    <!-- Row 9 -->
+    <!-- 7. Device Patching & Network Defense -->
     <relrow>
       <relcell>
-        <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept" linking="sourceonly"/>
+        <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
+        <topicref href="outdated-software/c_what-is-outdated-software.dita" type="concept"/>
       </relcell>
       <relcell>
-        <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task" linking="targetonly"/>
-        <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task" linking="sourceonly"/>
-        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>  
-        <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
-        <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
+        <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task"/>
+        <topicref href="network-security/t_report-an-incident-network-security.dita" type="task"/>
+        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-mac.dita" type="task"/>
+        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-windows.dita" type="task"/>
+        <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task"/>
+        <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task"/>
       </relcell>
       <relcell>
-        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference" linking="sourceonly"/>
+        <topicref href="network-security/r_ncsu-security-links.dita" type="reference"/>
       </relcell>
     </relrow>
   </reltable>
