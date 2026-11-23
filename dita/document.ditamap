@@ -16,7 +16,7 @@
 
   <!-- Section 1: Account and Access Security -->
   <topichead navtitle="Account and Access Security">
-    <mapref href="two-factor-auth/two-factor-auth.ditamap" format="ditamap"/>
+    <mapref href="two-factor-authentication/two-factor-authentication.ditamap" format="ditamap"/>
     <mapref href="password-management/password-management.ditamap" format="ditamap"/>
     <mapref href="vpn/vpn.ditamap" format="ditamap"/>
   </topichead>
@@ -56,7 +56,7 @@
       </relcell>
       <relcell>
         <topicref href="cookies/t_how-to-clear-cookies-and-cache.dita" type="task"/>
-        <topicref href="two-factor-auth/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
+        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
       </relcell>
       <relcell/>
     </relrow>
@@ -105,7 +105,7 @@
       <relcell>
         <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
         <topicref href="outdated-software/c_what-is-outdated-software.dita" type="concept"/>
-        <topicref href="two-factor-auth/c_what-is-2fa.dita" type="concept"/>
+        <topicref href="two-factor-authentication/c_what-is-2fa.dita" type="concept"/>
       </relcell>
       <relcell>
         <topicref href="network-security/t_report-an-incident-network-security.dita" type="task"/>
@@ -129,11 +129,11 @@
         <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task"/>
         <topicref href="vpn/t_how-to-connect-to-nc-state-vpn.dita" type="task"/>
         <topicref href="vpn/t_how-to-authenticate-vpn-with-duo.dita" type="task"/>
-        <topicref href="two-factor-auth/t_how-to-use-duo-bypass-code.dita" type="task"/>
+        <topicref href="two-factor-authentication/t_how-to-use-duo-bypass-code.dita" type="task"/>
       </relcell>
       <relcell>
         <topicref href="vpn/r_see-also-vpn-resources-and-support.dita" type="reference"/>
-        <topicref href="two-factor-auth/r_see-also-2fa-benefits.dita" type="reference"/>
+        <topicref href="two-factor-authentication/r_see-also-2fa-benefits.dita" type="reference"/>
       </relcell>
     </relrow>
 
@@ -163,7 +163,7 @@
         <topicref href="phishing/c_what-is-phishing.dita" type="concept" linking="sourceonly"/>
       </relcell>
       <relcell>
-        <topicref href="two-factor-auth/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>
+        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>
         <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
         <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
       </relcell>
@@ -189,7 +189,7 @@
       <relcell>
         <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task" linking="targetonly"/>
         <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task" linking="sourceonly"/>
-        <topicref href="two-factor-auth/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>  
+        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>  
         <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
         <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
       </relcell>

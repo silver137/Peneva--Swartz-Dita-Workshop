@@ -13,7 +13,7 @@
     <prereq>
       <p>Verify whether you are installing the VPN client on a personal or university-owned device:</p>
       <ul>
-        <li audience="student"><b>Personal devices (students and personal computers):</b> You can download and install <keyword>Cisco Secure Client</keyword> directly using the steps below.</li>
+        <li audience="students"><b>Personal devices (students and personal computers):</b> You can download and install <keyword>Cisco Secure Client</keyword> directly using the steps below.</li>
         <li audience="faculty staff"><b>University-managed devices (faculty and staff):</b> <keyword>Cisco Secure Client</keyword> is pre-installed on many university-issued computers. If you use a university-provided device and need help installing the client, contact your local department IT support team.</li>
       </ul>
       <p>NC State supports <keyword>Cisco Secure Client</keyword> on Windows 10 and 11, Windows on ARM processors, macOS 13 or newer, Linux (via OpenConnect), ChromeOS, Android, and iOS (iPhone or iPad).</p>
