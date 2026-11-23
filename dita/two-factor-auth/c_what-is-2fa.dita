@@ -10,6 +10,15 @@
     </copyright>
   </prolog>
   <conbody>
-    <p>Multi-factor authentication (MFA)—implemented at NC State University as Duo two-factor authentication (2FA)—is a layered approach to securing data and applications that requires you to present a combination of two or more independent credentials to verify your identity for login. Even if you use a complex password, cyber actors can still compromise passwords through phishing or data leaks. According to the Cybersecurity and Infrastructure Security Agency (CISA), enabling MFA on your accounts makes you 99 percent less likely to be hacked because an unauthorized user who obtains your password still cannot satisfy the second authentication requirement. Core MFA protections apply across all NC State students, faculty, and staff to safeguard university devices, networks, and databases.</p>
+    <p><term>Multi-factor authentication (MFA)</term>—implemented at NC State University as <keyword>Duo</keyword> <term>two-factor authentication (2FA)</term>—is a layered approach to securing data and applications that requires you to present a combination of two or more independent credentials to verify your identity for login.</p>
+    <section>
+      <title>How MFA Protects Your Account</title>
+      <p>Even if you use a complex password, cyber actors can still compromise passwords through <term>phishing</term> or data leaks. According to the Cybersecurity and Infrastructure Security Agency (CISA), enabling <term>MFA</term> on your accounts makes you <b>99 percent less likely</b> to be hacked because an unauthorized user who obtains your password still cannot satisfy the second authentication requirement.</p>
+      <ul>
+        <li><b>First factor (something you know):</b> Your NC State Unity ID password.</li>
+        <li><b>Second factor (something you have):</b> A verification prompt or passcode from the <keyword>Duo Mobile</keyword> app, a text message code, or a hardware security key.</li>
+      </ul>
+    </section>
+    <note type="important">Core <keyword>Duo</keyword> <term>MFA</term> protections apply across all NC State students, faculty, and staff to safeguard university devices, networks, and databases.</note>
   </conbody>
 </concept>

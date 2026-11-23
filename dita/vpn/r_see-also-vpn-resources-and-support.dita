@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_see-also-vpn-resources-and-support">
+  <title>VPN Resources and Support</title>
+  <shortdesc>VPN FAQs, troubleshooting guides, acceptable use policies, and additional support documentation for VPN users.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <refbody>
+    <section>
+      <title>NC State VPN Documentation and Guides</title>
+      <p>The NC State Office of Information Technology (OIT) maintains the following knowledge base guides and reference documentation for <keyword>Cisco Secure Client</keyword> users on the <xref href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0021969" format="html" scope="external">NC State VPN Overview (KB0021969)</xref> portal:</p>
+      <ul>
+        <li><b>VPN Client Network Overview:</b> Explains how NC State routes remote traffic and protects access to internal campus systems.</li>
+        <li><b>NC State VPN FAQ:</b> Answers common questions about mandatory <keyword>Duo</keyword> <term>2FA</term> authentication, split tunneling, Internet2 access, and supported IP tunneling protocols.</li>
+        <li><b>VPN Client Troubleshooting:</b> Provides fixes for common connection issues, including resolving unsuccessful domain name resolution errors and macOS connection service issues.</li>
+        <li><b>Start Before Logon:</b> Instructions for authenticating to the NC State VPN prior to Windows logon on university-managed computers.</li>
+      </ul>
+    </section>
+    <section>
+      <title>Acceptable Use Policies and Help Desk Support</title>
+      <ul>
+        <li><b>University Policies:</b> All VPN users must comply with NC State's Use of IT Resources Policy and VPN Acceptable Use Policy.</li>
+        <li><b>NC State OIT Help Desk:</b> For installation assistance, Duo bypass codes, or VPN troubleshooting, call 919-515-4357 (HELP) or submit a support request at <xref href="https://help.ncsu.edu" format="html" scope="external">help.ncsu.edu</xref>.</li>
+      </ul>
+    </section>
+  </refbody>
+</reference>

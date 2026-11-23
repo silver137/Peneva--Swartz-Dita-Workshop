@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-authenticate-vpn-with-duo">
+  <title>Authenticate to the VPN With Duo</title>
+  <shortdesc>How can you authenticate to the VPN using Duo Push, SMS passcodes, bypass codes, and other approved authentication methods.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>The NC State Office of Information Technology (OIT) requires all students, faculty, and staff to authenticate with <keyword>Duo</keyword> Security when signing in to the VPN. When connecting through <keyword>Cisco Secure Client</keyword>, use the <uicontrol>Second Password</uicontrol> field to complete second-factor verification using one of the approved methods below.</p>
+      <note type="important">Hardware security keys and U2F tokens cannot be used directly inside the VPN client prompt. If you only use a security key or U2F token, generate a 9-digit passcode through the Duo One-Time Passcode Tool at <xref href="https://go.ncsu.edu/dc" format="html" scope="external">go.ncsu.edu/dc</xref> or request a bypass code from the OIT Help Desk.</note>
+    </context>
+    <steps>
+      <step>
+        <cmd>Open <keyword>Cisco Secure Client</keyword>, connect to <userinput>vpn.ncsu.edu</userinput>, and enter your Unity ID and password.</cmd>
+      </step>
+      <step>
+        <cmd>Complete the <uicontrol>Second Password</uicontrol> field using one of the following approved <keyword>Duo</keyword> authentication methods:</cmd>
+        <substeps>
+          <substep>
+            <cmd><b>Duo Push:</b> Type <userinput>push</userinput> in the <uicontrol>Second Password</uicontrol> field, select <uicontrol>OK</uicontrol>, and tap <uicontrol>Approve</uicontrol> on the notification sent to your <keyword>Duo Mobile</keyword> app.</cmd>
+          </substep>
+          <substep>
+            <cmd><b>Duo Mobile App Passcode:</b> Open the <keyword>Duo Mobile</keyword> app, select <uicontrol>Duo Protected – NC State University</uicontrol>, enter the 6-digit passcode into the <uicontrol>Second Password</uicontrol> field, and select <uicontrol>OK</uicontrol>.</cmd>
+          </substep>
+          <substep>
+            <cmd><b>SMS Text Message Passcode:</b> Type <userinput>sms</userinput> in the <uicontrol>Second Password</uicontrol> field and select <uicontrol>OK</uicontrol> (the initial attempt will report that it failed while sending a text code). Re-enter your Unity ID and password, enter the 7-digit code texted to your phone into the <uicontrol>Second Password</uicontrol> field, and select <uicontrol>OK</uicontrol>.</cmd>
+          </substep>
+          <substep>
+            <cmd><b>Duo One-Time Passcode Tool (Security Key / U2F users):</b> Go to <xref href="https://go.ncsu.edu/dc" format="html" scope="external">go.ncsu.edu/dc</xref>, sign in with your Unity ID and password, verify with your Security Key or U2F token, select <uicontrol>Generate New Passcode</uicontrol>, and enter the 9-digit code in the <uicontrol>Second Password</uicontrol> field.</cmd>
+          </substep>
+          <substep>
+            <cmd><b>Duo Bypass Code:</b> Call the NC State OIT Help Desk at 919-515-4357 (available 24/7) or visit the Walk-in Center to verify your identity and receive a 9-digit bypass code, then enter that 9-digit code in the <uicontrol>Second Password</uicontrol> field and select <uicontrol>OK</uicontrol>.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>

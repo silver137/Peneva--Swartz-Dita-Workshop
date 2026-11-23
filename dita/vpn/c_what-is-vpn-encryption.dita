@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what-is-vpn-encryption">
+  <title>Why Use a VPN</title>
+  <shortdesc>How do encrypted connections protect you when accessing campus resources from remote or public networks.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>When you work remotely from home, travel, or use public Wi-Fi networks, your internet traffic can be exposed to interception on untrusted networks. Using <keyword>Cisco Secure Client</keyword> establishes an <term>encrypted connection</term> between your device and the NC State University network.</p>
+    <p>Connecting to the NC State VPN provides two primary protections for remote users:</p>
+    <ul>
+      <li><b>Encrypted traffic on public Wi-Fi:</b> Secures your connection to the university network when you are working on public or unsecured wireless networks.</li>
+      <li><b>Access to campus-restricted resources:</b> Enables you to safely reach university services, sensitive data, and internal resources that are restricted to on-campus network connections.</li>
+    </ul>
+    <note type="tip">If you borrow a Mac or Windows laptop from the Hill, Hunt, Design, Natural Resources, or Veterinary Medicine Libraries, <keyword>Cisco Secure Client</keyword> is already installed and ready to use.</note>
+  </conbody>
+</concept>

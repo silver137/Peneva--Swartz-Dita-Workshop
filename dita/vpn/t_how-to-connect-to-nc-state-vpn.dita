@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-connect-to-nc-state-vpn">
+  <title>Connect to NC State's VPN</title>
+  <shortdesc>Your step-by-step guide for connecting to the NC State VPN, including authentication through Duo multifactor authentication.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <prereq>
+      <p>Before connecting to the NC State VPN, make sure you have:</p>
+      <ul>
+        <li>Installed <keyword>Cisco Secure Client</keyword> on your computer or mobile device.</li>
+        <li>Enrolled in <keyword>Duo</keyword> <term>two-factor authentication (2FA)</term> with your NC State Unity ID.</li>
+      </ul>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Open the <keyword>Cisco Secure Client</keyword> application on your device.</cmd>
+      </step>
+      <step>
+        <cmd>Type <userinput>vpn.ncsu.edu</userinput> in the server address box and select <uicontrol>Connect</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>From the <uicontrol>Group</uicontrol> drop-down menu, select the appropriate VPN group for your needs and affiliation at NC State.</cmd>
+      </step>
+      <step>
+        <cmd>Enter your NC State Unity ID in the <uicontrol>Username</uicontrol> field and your Unity password in the <uicontrol>Password</uicontrol> field.</cmd>
+      </step>
+      <step>
+        <cmd>In the <uicontrol>Second Password</uicontrol> field, enter your <keyword>Duo</keyword> authentication choice:</cmd>
+        <info>
+          <ul>
+            <li>Type <userinput>push</userinput> (or leave the field blank, as Duo Push is the default) to receive a push notification in the <keyword>Duo Mobile</keyword> app.</li>
+            <li>Enter a 6-digit passcode generated in the <keyword>Duo Mobile</keyword> app.</li>
+            <li>Enter a 9-digit passcode from the self-service Duo passcode tool or an OIT Help Desk bypass code.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>OK</uicontrol>, approve the <keyword>Duo</keyword> prompt if using Duo Push, and wait for <keyword>Cisco Secure Client</keyword> to connect to the NC State network.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>Your device is connected to the NC State VPN. Keep the <keyword>Cisco Secure Client</keyword> window open in the background to maintain your VPN connection, and select <uicontrol>Disconnect</uicontrol> when you are finished.</p>
+    </result>
+  </taskbody>
+</task>

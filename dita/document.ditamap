@@ -144,14 +144,14 @@
 <relrow>
    <relcell>
       <topicref href="autofill-information/c_autofill-best-practices.dita" type="concept" linking="targetonly"/>
-      <topicref href="password-management/c_what-is-a-password-manager.dita type="concept" linking="sourceonly"/>
-      <topicref href="password-management/c_what-is-a-strong-password.dita type="concept" linking="sourceonly"/>
-      <topicref href="phishing/c_what-is-phishing.dita type="concept" linking="sourceonly"/>
+      <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept" linking="sourceonly"/>
+      <topicref href="password-management/c_what-is-a-strong-password.dita" type="concept" linking="sourceonly"/>
+      <topicref href="phishing/c_what-is-phishing.dita" type="concept" linking="sourceonly"/>
    </relcell>
   <relcell>
-    <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita type="task" linking="sourceonly"/>
-    <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita type="task" linking="sourceonly"/>
-    <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita type="task" linking="sourceonly"/>
+    <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>
+    <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
+    <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
   </relcell>
 </relrow>
 
@@ -171,8 +171,8 @@
     <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task" linking="targetonly"/>
     <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task" linking="sourceonly"/>
     <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>  
-    <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita type="task" linking="sourceonly"/>
-    <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita type="task" linking="sourceonly"/>
+    <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
+    <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
   </relcell>
   <relcell>
     <topicref href="data-breach/r_campus-data-security-training.dita" type="reference" linking="sourceonly"/>

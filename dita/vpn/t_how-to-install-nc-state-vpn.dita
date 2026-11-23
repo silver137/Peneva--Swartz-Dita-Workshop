@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-install-nc-state-vpn">
+  <title>Install the NC State VPN</title>
+  <shortdesc>Downloading and installing Cisco Secure Client on supported devices to access the NC State VPN.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <prereq>
+      <p>Verify whether you are installing the VPN client on a personal or university-owned device:</p>
+      <ul>
+        <li audience="student"><b>Personal devices (students and personal computers):</b> You can download and install <keyword>Cisco Secure Client</keyword> directly using the steps below.</li>
+        <li audience="faculty staff"><b>University-managed devices (faculty and staff):</b> <keyword>Cisco Secure Client</keyword> is pre-installed on many university-issued computers. If you use a university-provided device and need help installing the client, contact your local department IT support team.</li>
+      </ul>
+      <p>NC State supports <keyword>Cisco Secure Client</keyword> on Windows 10 and 11, Windows on ARM processors, macOS 13 or newer, Linux (via OpenConnect), ChromeOS, Android, and iOS (iPhone or iPad).</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Open a web browser and go to the NC State VPN installation portal at <xref href="https://go.ncsu.edu/install-vpn" format="html" scope="external">https://go.ncsu.edu/install-vpn</xref>.</cmd>
+      </step>
+      <step>
+        <cmd>Sign in with your NC State Unity ID and password if prompted.</cmd>
+      </step>
+      <step>
+        <cmd>Select your device's operating system (such as <uicontrol>Windows 10 and 11</uicontrol>, <uicontrol>macOS 13 or newer</uicontrol>, <uicontrol>Android</uicontrol>, or <uicontrol>iOS</uicontrol>) to view the platform-specific installer.</cmd>
+      </step>
+      <step>
+        <cmd>Download the <keyword>Cisco Secure Client</keyword> installer package for your operating system and follow the on-screen installation prompts to complete setup.</cmd>
+        <info>
+          <p>On macOS, open the downloaded disk image, double-click <uicontrol>Cisco Secure Client.pkg</uicontrol>, accept the license agreement, and keep <uicontrol>AnyConnect VPN</uicontrol> selected during installation.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Open <keyword>Cisco Secure Client</keyword> from the <wintitle>Start Menu</wintitle> (Windows) or <wintitle>Finder</wintitle> (macOS) to verify that the application launches properly.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p><keyword>Cisco Secure Client</keyword> is installed on your device and ready to connect to the NC State VPN.</p>
+    </result>
+  </taskbody>
+</task>

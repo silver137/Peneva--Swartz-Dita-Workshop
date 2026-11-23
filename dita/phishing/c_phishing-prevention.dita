@@ -10,6 +10,24 @@
     </copyright>
   </prolog>
   <conbody>
-    <p>Phishing attacks across the NC State community arrive via email, text messages, shared Google Docs, and calendar invites, often impersonating trusted university offices or businesses to lure users into clicking harmful links or logging into fake pages. Common campus lures include fake university account warnings, payroll and pension review scams, and fraudulent student job offers. To protect yourself and the university across all campus roles, follow NC State OIT's three core prevention habits: be suspicious of any unsolicited request for login, financial, or contact information; take your time to inspect links and verify that university login URLs begin with shib.ncsu.edu (for Shibboleth) or login.microsoftonline.com (for Entra ID); and ask for help by reporting suspicious messages through Gmail and the NC State Help Desk.</p>
+    <p>Phishing attacks across the NC State community arrive through email, text messages, shared Google Docs, and calendar invites. Attackers often impersonate trusted university offices or businesses to lure users into clicking harmful links or entering credentials on fake login pages.</p>
+    <section>
+      <title>Common Campus Phishing Lures</title>
+      <p>Scammers frequently tailor messages to target NC State students, faculty, and staff using familiar university themes:</p>
+      <ul>
+        <li><b>Fake university account warnings:</b> Messages claiming your Unity account or email storage will be deactivated unless you verify your login immediately.</li>
+        <li><b>Payroll and pension review scams:</b> Emails impersonating human resources or benefits offices asking you to review salary, tax, or retirement documents.</li>
+        <li><b>Fraudulent student job offers:</b> Unsolicited emails advertising high-paying, flexible campus or remote jobs that ask for personal or banking information.</li>
+      </ul>
+    </section>
+    <section>
+      <title>Three Core Phishing Prevention Habits</title>
+      <p>To protect yourself and university systems across all campus roles, follow NC State OIT's three core prevention habits:</p>
+      <ul>
+        <li><b>Be suspicious:</b> Treat any unsolicited request for login credentials, financial details, or personal contact information with caution.</li>
+        <li><b>Take your time:</b> Inspect links before clicking and verify that official NC State login URLs begin with <b>shib.ncsu.edu</b> (for Shibboleth) or <b>login.microsoftonline.com</b> (for Entra ID).</li>
+        <li><b>Ask for help:</b> Report suspected phishing messages through Gmail's built-in reporting feature and the NC State OIT Help Desk.</li>
+      </ul>
+    </section>
   </conbody>
 </concept>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what-is-the-nc-state-vpn">
+  <title>What is the NC State VPN</title>
+  <shortdesc>What is NC State's VPN service and how do you securely access internal campus resources from off-campus locations using Cisco Secure Client.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>The NC State <term>Virtual Private Network (VPN)</term> service provides authorized users with secure network access to internal campus resources while off campus or not directly connected to the university's network. NC State provides this service through the <keyword>Cisco Secure Client</keyword> software.</p>
+    <p>All NC State students, faculty, and staff are eligible to access the NC State VPN service, though common use cases vary by campus role:</p>
+    <ul>
+      <li audience="student"><b>Students:</b> Connect to the VPN from off campus to access restricted university library databases, course software, and class servers.</li>
+      <li audience="faculty staff"><b>Faculty and Staff:</b> Connect to the VPN when working remotely to access internal departmental drives, research storage, and administrative or HR systems.</li>
+    </ul>
+    <note type="important">All NC State VPN service users are subject to NC State's Use of IT Resources Policy and VPN Acceptable Use Policy. You must also be enrolled in <keyword>Duo</keyword> <term>two-factor authentication (2FA)</term> to sign in to the VPN.</note>
+  </conbody>
+</concept>
