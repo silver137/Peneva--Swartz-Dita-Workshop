@@ -21,7 +21,7 @@
       <param name="args.hdr" href="header.xml"/>
       <param name="args.ftr" href="footer.xml"/>
       <param name="html5.toc.generate" value="no"/>
-      <param name="args.rellinks" value="none"/>
+      <param name="args.rellinks" value="nofamily"/>
       <param name="nav-toc" value="collapsible"/>
       <param name="scrollspy-toc" value="list"/>
       <param name="processing-mode" value="strict"/>
