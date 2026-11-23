@@ -26,7 +26,7 @@ jobs:
             fox.jason.prismjs@4.2.0
             fox.jason.favicon
             fox.jason.open-graph
-          # project: .github/dita-ot/html.xml
+          project: .github/dita-ot/html.xml
           build: |
             dita --project=.github/dita-ot/html.xml --filter=dita/students.ditaval
       - name: Deploy HTML 🚀
