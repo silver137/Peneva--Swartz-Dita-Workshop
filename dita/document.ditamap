@@ -11,19 +11,32 @@
   <ditavalref href="staff.ditaval"/>
   <ditavalref href="faculty.ditaval"/>
 
-  <!-- Section Sub-Maps -->
-  <mapref href="two-factor-auth/two-factor-auth.ditamap" format="ditamap"/>
-  <mapref href="password-management/password-management.ditamap" format="ditamap"/>
-  <mapref href="phishing/phishing.ditamap" format="ditamap"/>
-  <mapref href="vpn/vpn.ditamap" format="ditamap"/>
-  <mapref href="network-security/network-security.ditamap" format="ditamap"/>
-  <mapref href="ransomware/ransomware.ditamap" format="ditamap"/>
-  <mapref href="data-breach/data-breach.ditamap" format="ditamap"/>
-  <mapref href="incident-response/incident-response.ditamap" format="ditamap"/>
-  <mapref href="outdated-software/outdated-software.ditamap" format="ditamap"/>
-  <mapref href="cookies/cookies.ditamap" format="ditamap"/>
-  <mapref href="autofill-information/autofill-information.ditamap" format="ditamap"/>
-  <mapref href="alert-fatigue/alert-fatigue.ditamap" format="ditamap"/>
+  <!-- Landing Page -->
+  <topicref href="index.dita"/>
+
+  <!-- Section 1: Account and Access Security -->
+  <topichead navtitle="Account and Access Security">
+    <mapref href="two-factor-auth/two-factor-auth.ditamap" format="ditamap"/>
+    <mapref href="password-management/password-management.ditamap" format="ditamap"/>
+    <mapref href="vpn/vpn.ditamap" format="ditamap"/>
+  </topichead>
+
+  <!-- Section 2: Threat Awareness and Incident Response -->
+  <topichead navtitle="Threat Awareness and Incident Response">
+    <mapref href="phishing/phishing.ditamap" format="ditamap"/>
+    <mapref href="ransomware/ransomware.ditamap" format="ditamap"/>
+    <mapref href="data-breach/data-breach.ditamap" format="ditamap"/>
+    <mapref href="incident-response/incident-response.ditamap" format="ditamap"/>
+    <mapref href="alert-fatigue/alert-fatigue.ditamap" format="ditamap"/>
+  </topichead>
+
+  <!-- Section 3: Device, Browser, and Network Protection -->
+  <topichead navtitle="Device, Browser, and Network Protection">
+    <mapref href="network-security/network-security.ditamap" format="ditamap"/>
+    <mapref href="outdated-software/outdated-software.ditamap" format="ditamap"/>
+    <mapref href="cookies/cookies.ditamap" format="ditamap"/>
+    <mapref href="autofill-information/autofill-information.ditamap" format="ditamap"/>
+  </topichead>
 
   <!-- Relationship Table 1 -->
   <reltable>
@@ -43,10 +56,9 @@
       </relcell>
       <relcell>
         <topicref href="cookies/t_how-to-clear-cookies-and-cache.dita" type="task"/>
-        <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
+        <topicref href="two-factor-auth/t_how-to-enroll-in-duo-2fa.dita" type="task"/>
       </relcell>
-      <relcell>
-      </relcell>
+      <relcell/>
     </relrow>
 
     <!-- Row 2: Autofill, Password Management, Data Breach -->
@@ -93,7 +105,7 @@
       <relcell>
         <topicref href="network-security/c_what-is-network-security.dita" type="concept"/>
         <topicref href="outdated-software/c_what-is-outdated-software.dita" type="concept"/>
-        <topicref href="two-factor-authentication/c_what-is-2fa.dita" type="concept"/>
+        <topicref href="two-factor-auth/c_what-is-2fa.dita" type="concept"/>
       </relcell>
       <relcell>
         <topicref href="network-security/t_report-an-incident-network-security.dita" type="task"/>
@@ -117,11 +129,11 @@
         <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task"/>
         <topicref href="vpn/t_how-to-connect-to-nc-state-vpn.dita" type="task"/>
         <topicref href="vpn/t_how-to-authenticate-vpn-with-duo.dita" type="task"/>
-        <topicref href="two-factor-authentication/t_how-to-use-duo-bypass-code.dita" type="task"/>
+        <topicref href="two-factor-auth/t_how-to-use-duo-bypass-code.dita" type="task"/>
       </relcell>
       <relcell>
         <topicref href="vpn/r_see-also-vpn-resources-and-support.dita" type="reference"/>
-        <topicref href="two-factor-authentication/r_see-also-2fa-benefits.dita" type="reference"/>
+        <topicref href="two-factor-auth/r_see-also-2fa-benefits.dita" type="reference"/>
       </relcell>
     </relrow>
 
@@ -142,44 +154,48 @@
       </relcell>
     </relrow>
 
- 
-<relrow>
-   <relcell>
-      <topicref href="autofill-information/c_autofill-best-practices.dita" type="concept" linking="targetonly"/>
-      <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept" linking="sourceonly"/>
-      <topicref href="password-management/c_what-is-a-strong-password.dita" type="concept" linking="sourceonly"/>
-      <topicref href="phishing/c_what-is-phishing.dita" type="concept" linking="sourceonly"/>
-   </relcell>
-  <relcell>
-    <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>
-    <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
-    <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
-  </relcell>
-</relrow>
+    <!-- Row 7 -->
+    <relrow>
+      <relcell>
+        <topicref href="autofill-information/c_autofill-best-practices.dita" type="concept" linking="targetonly"/>
+        <topicref href="password-management/c_what-is-a-password-manager.dita" type="concept" linking="sourceonly"/>
+        <topicref href="password-management/c_what-is-a-strong-password.dita" type="concept" linking="sourceonly"/>
+        <topicref href="phishing/c_what-is-phishing.dita" type="concept" linking="sourceonly"/>
+      </relcell>
+      <relcell>
+        <topicref href="two-factor-auth/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>
+        <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
+        <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
+      </relcell>
+      <relcell/>
+    </relrow>
 
-<relrow>
-<relcell>
-  <topicref href="incident-response/c_types-of-incidents.dita" type="concept" linking="targetonly"/>
-  <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept" linking="sourceonly"/>
-  <topicref href="ransomware/c_types-of-ransomware.dita" type="concept" linking="sourceonly"/>
-</relcell>
-</relrow>
+    <!-- Row 8 -->
+    <relrow>
+      <relcell>
+        <topicref href="incident-response/c_types-of-incidents.dita" type="concept" linking="targetonly"/>
+        <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept" linking="sourceonly"/>
+        <topicref href="ransomware/c_types-of-ransomware.dita" type="concept" linking="sourceonly"/>
+      </relcell>
+      <relcell/>
+      <relcell/>
+    </relrow>
 
-<relrow>
-  <relcell>
-    <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept" linking="sourceonly"/>
-  </relcell>
-  <relcell>
-    <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task" linking="targetonly"/>
-    <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task" linking="sourceonly"/>
-    <topicref href="two-factor-authentication/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>  
-    <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
-    <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
-  </relcell>
-  <relcell>
-    <topicref href="data-breach/r_campus-data-security-training.dita" type="reference" linking="sourceonly"/>
-  </relcell>
-</relrow>
-
-</reltable>
+    <!-- Row 9 -->
+    <relrow>
+      <relcell>
+        <topicref href="vpn/c_what-is-the-nc-state-vpn.dita" type="concept" linking="sourceonly"/>
+      </relcell>
+      <relcell>
+        <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task" linking="targetonly"/>
+        <topicref href="vpn/t_how-to-install-nc-state-vpn.dita" type="task" linking="sourceonly"/>
+        <topicref href="two-factor-auth/t_how-to-enroll-in-duo-2fa.dita" type="task" linking="sourceonly"/>  
+        <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task" linking="sourceonly"/>
+        <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task" linking="sourceonly"/>
+      </relcell>
+      <relcell>
+        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference" linking="sourceonly"/>
+      </relcell>
+    </relrow>
+  </reltable>
 </map>

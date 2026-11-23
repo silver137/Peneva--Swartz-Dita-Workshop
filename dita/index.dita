@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<concept id="index">
+  <title>NC State Cybersecurity Guide</title>
+  <shortdesc>Essential cybersecurity concepts, step-by-step setup guides, and campus resources for NC State students, faculty, and staff.</shortdesc>
+  <prolog>
+    <author>Denitsa Peneva</author>
+    <author>Makayla Munoz</author>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+<conbody>
+    <p>Welcome to the NC State Cybersecurity Guide. This documentation provides NC State students, faculty, and staff with practical guidance, campus-specific instructions, and reference resources to protect Unity accounts, personal devices, and university data.</p>
+
+    <section>
+      <title>Who This Guide Is For</title>
+      <ul>
+        <li><b>Students:</b> Learn how to set up Duo two-factor authentication, manage passwords, stay safe on public Wi-Fi, connect to the NC State VPN from off campus, and recognize campus scams.</li>
+        <li><b>Faculty and Staff:</b> Access instructions for securing university-managed devices, following institutional password and data security guidelines, and reporting cybersecurity incidents.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Account and Access Security</title>
+      <ul>
+        <li><b>Two-Factor Authentication (2FA):</b> Explains how multifactor authentication reduces account compromise and provides step-by-step instructions for enrolling in Duo, adding new devices or phones, and using bypass codes.</li>
+        <li><b>Password Management:</b> Covers how to create strong, unique passwords, use password managers, follow NC State password guidelines, and change your Unity ID password.</li>
+        <li><b>Virtual Private Network (VPN):</b> Explains how encrypted VPN connections protect remote traffic and provides instructions for installing Cisco Secure Client, connecting to the NC State VPN, and authenticating with Duo.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Threat Awareness and Incident Response</title>
+      <ul>
+        <li><b>Phishing:</b> Identifies common phishing tactics and NC State campus scams, explains how to spot suspicious messages, and outlines how to report phishing emails through Gmail and the OIT Help Desk.</li>
+        <li><b>Ransomware:</b> Defines ransomware and common attack types, explains how to analyze suspicious emails that deliver malware, and lists ransomware protection software and awareness resources.</li>
+        <li><b>Data Breach:</b> Explains what data breaches are, how to recognize suspicious breach notifications, examples of higher education data breaches, and NC State campus data security training guidelines.</li>
+        <li><b>Incident Response:</b> Covers types of cybersecurity incidents, official response protocols and technologies, and how to report a cybersecurity incident on campus.</li>
+        <li><b>Alert Fatigue:</b> Explains the causes and effects of alert fatigue and provides instructions for opting into high-priority campus security alerts and organizing incoming emails with Google filters.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Device, Browser, and Network Protection</title>
+      <ul>
+        <li><b>Network Security:</b> Introduces network security concepts and best practices for protecting your devices and data when using public Wi-Fi networks.</li>
+        <li><b>Outdated Software:</b> Explains the security risks of outdated software, provides steps for updating macOS and Windows operating systems, and links to NC State IT Service Portal update guides.</li>
+        <li><b>Cookies:</b> Explains what browser cookies are, how different types of cookies work, and how to clear cookies and cache across web browsers.</li>
+        <li><b>Autofill Information:</b> Covers autofill security risks and best practices, along with instructions for accessing, changing, and deleting saved autofill information.</li>
+      </ul>
+    </section>
+  </conbody>
+</concept>
