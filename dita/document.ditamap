@@ -6,23 +6,6 @@
     <shortdesc>Comprehensive cybersecurity guidance, procedures, and reference resources for NC State students, staff, and faculty.</shortdesc>
   </topicmeta>
 
-  <!-- Audience Filters (with suffixes so builds don't overwrite each other) -->
-  <ditavalref href="students.ditaval">
-    <ditavalmeta>
-      <dvrResourceSuffix>-students</dvrResourceSuffix>
-    </ditavalmeta>
-  </ditavalref>
-  <ditavalref href="staff.ditaval">
-    <ditavalmeta>
-      <dvrResourceSuffix>-staff</dvrResourceSuffix>
-    </ditavalmeta>
-  </ditavalref>
-  <ditavalref href="faculty.ditaval">
-    <ditavalmeta>
-      <dvrResourceSuffix>-faculty</dvrResourceSuffix>
-    </ditavalmeta>
-  </ditavalref>
-
   <!-- Landing Page -->
   <topicref href="index.dita"/>
 
