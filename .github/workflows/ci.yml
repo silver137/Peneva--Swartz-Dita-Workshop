@@ -4,13 +4,15 @@ name: CI
     branches:
       - master
   workflow_dispatch:
+
 jobs:
   build-dita:
     name: Build DITA
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
       - name: Build Bootstrap ⚙️
         uses: dita-ot/dita-ot-action@4.4
         with:
@@ -27,15 +29,14 @@ jobs:
             fox.jason.favicon
             fox.jason.open-graph
           project: .github/dita-ot/html.xml
-          # If you have a DITAVal, add the following:
-          build: | 
-            dita -i dita/document.ditamap -o out/html -f html5 --filter=myfilter.ditaval
+
       - name: Deploy HTML 🚀
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@v3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: out/html # The folder the action should deploy.
+          BRANCH: gh-pages
+          FOLDER: out/html
+
       - name: Build PDF 🖨️
         uses: dita-ot/dita-ot-action@4.4
         with:
@@ -48,9 +49,10 @@ jobs:
             fox.jason.extend.css
             fox.jason.prismjs@4.2.0
           build: |
-              dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=myfilter.ditaval
-         # If you have a DITAVal, replace the previous line with the following:
-            # dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=myfilter.ditaval
+            dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=dita/students.ditaval --args.output.base=students
+            dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=dita/staff.ditaval --args.output.base=staff
+            dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=dita/faculty.ditaval --args.output.base=faculty
+
       - name: Upload PDF 📚
         uses: actions/upload-artifact@v4
         with:
