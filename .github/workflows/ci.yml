@@ -26,8 +26,9 @@ jobs:
             fox.jason.prismjs@4.2.0
             fox.jason.favicon
             fox.jason.open-graph
+          # project: .github/dita-ot/html.xml
           build: |
-            dita -i dita/document.ditamap -o out/html -f html5-bootstrap --filter=dita/students.ditaval
+            dita --project=.github/dita-ot/html.xml --filter=dita/students.ditaval
       - name: Deploy HTML 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
