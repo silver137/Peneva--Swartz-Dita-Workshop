@@ -7,8 +7,7 @@
   </topicmeta>
   <topicref href="c_what-is-ransomware.dita" type="concept"/>
   <topicref href="c_types-of-ransomware.dita" type="concept"/>
-  <topicref href="t_how-to-update-operating-systems.dita" type="task"/>
-  <topicref href="t_how-to-analyze-suspicious-emails.dita" type="task"/>
+  <topicref href="t_how-to-identify-phishing-attempts.dita" type="task"/>
   <topicref href="r_supplemental-ransomware-info.dita" type="reference"/>
   <topicref href="r_ransomware-protection-software.dita" type="reference"/>
 </map>

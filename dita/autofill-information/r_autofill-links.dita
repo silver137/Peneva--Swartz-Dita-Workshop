@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_autofill-links">
+  <title>Microsoft Edge and Safari Autofill Management Links:</title>
+
+  <shortdesc>Links to tutorials on how to manage your autofill settings on
+  Microsoft Edge and Safari browsers.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <refbody>
+    <section><title>Microsoft Edge and Safari Autofill Tutorial Links</title>
+    <p><b>Note:</b> Choose your MacOs version in the drop down menu at the top
+    of the screen before following the instructions for Safari.</p>
+    <simpletable>
+        <sthead>
+          <stentry>Browser</stentry>
+
+          <stentry>Link</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>Microsoft Edge</stentry>
+
+          <stentry><xref format="html"
+          href="https://explore.microsoft.com/en-us/edge/features/autofill?form=MT0160"
+          scope="external">Manage Microsoft Edge Autofill
+          Settings</xref></stentry>
+        </strow>
+
+        <strow>
+          <stentry>Safari</stentry>
+
+          <stentry><ul>
+              <xref format="html"
+              href="https://support.apple.com/guide/safari/autofill-ibrwa005/mac"
+              scope="external">Change Autofill settings in Safari on
+              Mac</xref>
+            </ul> <ul>
+              <xref format="html"
+              href="https://support.apple.com/guide/safari/if-autofill-doesnt-work-ibrw1100/27.0/mac/27"
+              scope="external">Navigating Safari Autofill Issues on Mac</xref>
+            </ul></stentry>
+        </strow>
+      </simpletable></section>
+  </refbody>
+</reference>

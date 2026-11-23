@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_causes-and-effects-of-alert-fatigue">
+ <title>Causes and Effects of Alert Fatigue</title>
+ <shortdesc>Alert fatigue occurs when users experience a high volume of repetitive, low-priority alerts that inhibit critical thinking abilities and distract users from serious and actionable alerts.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>Alert fatigue occurs when users experience a high volume of repetitive, low-priority alerts. Alerts compound from peers, faculty, learning management systems, campus departments, and workplace communication channels, unknowingly drowning out serious threats users may be able to act upon to secure their data during a cybersecurity attack. Experiencing alert fatigue creates intense problems for users and the organization around them. Malicious actors can infiltrate user or organizational systems and threaten to leak or destroy data in exchange for a ransom (see <xref href="c_what-is-ransomware.dita"/> for more). Additionally, alert fatigue may have long-lasting effects where users mistrust internal security systems for allowing a high volume of false-positive and unactionable alerts to reach the user. You must recognize these effects to remain aware of potential cybersecurity threats to personal and university data.</p>
+
+ </conbody>
+</concept>

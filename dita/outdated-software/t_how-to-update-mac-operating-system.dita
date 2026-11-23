@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_how-to-update-mac-operating-systems">
+  <title>Update Mac Operating System</title>
+  <shortdesc>Update Mac operating system by searching for available updates in
+  system settings. Mac defines the terms “update” for minor revisions and
+  “upgrade” for major improvements. Both are important to accept and have the
+  exact same process.</shortdesc>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <taskbody>
+    <context><p>One of the simplest precautions you can take to avoid outdated
+    software is updating your operating systems.</p></context>
+    <steps>
+      <step>
+        <cmd>Open System Settings.</cmd>
+      </step>
+      <step>
+        <cmd>Find the General tab, then select Software Update.</cmd>
+      </step>
+      <step>
+        <cmd>Select Update or Upgrade and a preferred time, if available; if
+        not, your system is up-to-date.</cmd>
+        <info><note id="upload_note">Be sure to upload your files to the cloud
+        or an external drive to ensure no data is lost during the
+        update.</note></info>
+        <info><note>Click Automatic Updates at the bottom of the window to
+        turn on or off automatic updates.</note></info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

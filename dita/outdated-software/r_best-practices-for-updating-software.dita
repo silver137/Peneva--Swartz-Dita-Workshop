@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_best-practices-for-updating-software">
+ <title>Best Practices for Updating Software</title>
+ <shortdesc>Best practices and benefits of staying up-to-date with software and system updates.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+  <refbody>
+ <section>
+      <title>Best Practices</title>
+<p>To stay up-to-date with your software and operating systems, you should understand the following practices and how they benefit you by protecting your data.</p><simpletable id="best-practices">
+      <sthead>
+        <stentry>Action</stentry>
+        <stentry>Benefit</stentry>
+      </sthead>
+      <strow>
+        <stentry>Enable automatic updates</stentry>
+        <stentry>Operate with up-to-date technology without needing constant reminders.</stentry>
+      </strow>
+      <strow>
+        <stentry>Prioritize critical updates</stentry>
+        <stentry>Address updates with solutions to known vulnerabilities and keep your system and data secure.</stentry>
+      </strow>
+      <strow>
+        <stentry>Watch out for security threats</stentry>
+        <stentry>Informs you and keeps your data safe from security issues, breaches, and cybersecurity attacks on institutional and personal technology.</stentry>
+      </strow>
+    </simpletable></section>
+  </refbody>
+</reference>

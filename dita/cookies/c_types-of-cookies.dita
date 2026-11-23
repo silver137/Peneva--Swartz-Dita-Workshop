@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_types-of-cookies">
+  <title>Types of Cookies</title>
+
+  <shortdesc>There are several different types of cookies like persistent
+  cookies, session cookies, first-party cookies, third-party cookies, and the
+  supercookie.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / Vanderbilt University Website</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <conbody>
+     
+
+    <p><b>Persistent Cookies</b> are stored on your computer for a
+    predetermined period, even after you close your browser. These cookies
+    have an expiration date, which determines how long they remain on your
+    computer, ranging from a few days to several years. They’re often used
+    for: <ul> <b>Authentication:</b> Remembering your login information and
+    keeping you logged into your accounts. Many websites use persistent
+    cookies to remember your login details so you don’t have to enter them
+    every time you visit. </ul> <ul> <b>Tracking:</b> Recording your browsing
+    habits and preferences over time, building a profile of your interests.
+    This information can be used to personalize your experience on a website
+    or to deliver targeted advertising. </ul></p>
+
+     
+
+    <p><b>Session Cookies</b>are temporary and are deleted when you close your
+    browser. They exist only during your active browsing session and are
+    essential for many website features to work correctly. They’re typically
+    used for: <ul> <b>Session Management:</b> Maintaining the continuity of
+    your browsing session and keeping track of your activity on a website.
+    Session cookies ensure that the website remembers your actions as you
+    navigate from page to page. </ul> <ul> <b>Shopping Carts:</b> Remembering
+    the items you’ve added to your shopping cart as you browse an e-commerce
+    website. Without session cookies, your shopping cart would be emptied
+    every time you move to a different page. </ul></p>
+
+     
+
+    <p><b>First-party Cookies</b> are set by the website you’re visiting
+    directly. These cookies are generally considered safe and are used to
+    enhance your browsing experience on that particular website. They’re
+    commonly used for: <ul> <b>Website Functionality:</b> Enabling essential
+    features like shopping carts, user accounts, and personalized content.
+    Many websites rely on first-party cookies to remember your preferences and
+    tailor the content to your interests. </ul> <ul> <b>User Preferences:</b>
+    Storing your preferences for a website, such as language selection,
+    region, or theme. These cookies remember your choices so you don’t have to
+    set them again every time you visit the website. </ul></p>
+
+     
+
+    <p><b>Third-party Cookies:</b> are set by domains other than the website
+    you’re visiting, often through embedded content like advertisements or
+    videos. These cookies are primarily used for tracking your online behavior
+    across multiple websites. Here’s how they work: <ul> You visit a website
+    (website A) that contains an ad from an advertising network (website B).
+    </ul> <ul> When the ad loads, website B sets a cookie on your computer.
+    </ul> <ul> As you browse other websites that also contain ads from website
+    B, the cookie allows website B to track your activity across these
+    different sites. </ul></p>
+
+     A third-party cookie collects data about your online behavior and passes it on to advertisers for insightful advertising, enabling them to display targeted ads based on your activities. 
+
+    <p>
+      <note>Due to growing privacy concerns, major web browsers are phasing
+      out support for third-party cookies. Some browsers, like Safari and
+      Firefox, already block them by default. However, many websites still
+      rely on third-party cookies, and some companies are exploring
+      alternative tracking methods, such as browser fingerprinting.</note>
+    </p>
+
+     
+
+    <p><b>Supercookies</b> are a more persistent type of tracking cookie
+    that’s stored outside of your browser’s usual cookie storage. They can be
+    notoriously difficult to remove and have a knack for reappearing even
+    after you’ve deleted your browser cookies. This is because they’re often
+    stored in multiple locations, including Flash Local Shared Objects, HTML5
+    Web Storage, and other browser plugins. <note>Supercookies raise
+    significant privacy concerns because they can track your browsing activity
+    across multiple websites and devices, making it challenging to maintain
+    your online privacy. </note></p>
+
+     
+  </conbody>
+</concept>

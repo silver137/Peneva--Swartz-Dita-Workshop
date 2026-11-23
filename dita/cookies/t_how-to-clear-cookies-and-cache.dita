@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
 "task.dtd">
-<task id="t_how-to-clear-cookies-and-cache.dita">
+<task id="t_how-to-clear-cookies-and-cache">
   <title>Clear Cookies and Cache</title>
 
   <shortdesc>Learn how to clear your device’s cookies and cache from
@@ -33,8 +33,8 @@
       <step>
         At the top right, 
 
-        <cmd>select “More” (three vertical dots) and then “Delete browsing
-        data.”</cmd>
+        <cmd>select <menucascade><uicontrol>More</uicontrol> <uicontrol>Delete browsing
+        data</uicontrol></menucascade>.</cmd>
 
          
       </step>
@@ -42,7 +42,7 @@
       <step>
         <cmd>Choose a time range,</cmd>
 
-        <stepxmp>like “Last hour” or “All time.”</stepxmp>
+        <stepxmp>like <uicontrol>Last hour</uicontrol> or <uicontrol>All time</uicontrol>.</stepxmp>
       </step>
 
       <step>
@@ -56,7 +56,7 @@
       <step>
         To confirm, 
 
-        <cmd>select “Delete data.”</cmd>
+        <cmd>select <uicontrol>Delete data</uicontrol>.</cmd>
 
          
       </step>

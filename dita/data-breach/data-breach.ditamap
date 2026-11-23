@@ -6,7 +6,7 @@
     <shortdesc>What data breaches are, how to spot breach notifications, recovery guidance, and NC State data security training.</shortdesc>
   </topicmeta>
   <topicref href="c_what-is-a-data-breach.dita" type="concept"/>
-  <topicref href="t_how-to-identify-suspicious-emails.dita" type="task"/>
-  <topicref href="r_data-breach-recovery.dita" type="reference"/>
+  <topicref href="t_how-to-identify-phishing-attempts.dita" type="task"/>
+  <topicref href="r_data-breach-examples.dita" type="reference"/>
   <topicref href="r_campus-data-security-training.dita" type="reference"/>
 </map>

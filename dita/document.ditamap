@@ -63,6 +63,8 @@
       <relcell>
         <topicref href="autofill-information/r_autofill-links.dita" type="reference"/>
         <topicref href="password-management/r_see-also-password-security-best-practices.dita" type="reference"/>
+        <topicref href="data-breach/r_campus-data-security-training.dita" type="reference"/>
+        <topicref href="data-breach/r_data-breach-examples.dita" type="reference"/>
       </relcell>
     </relrow>
 

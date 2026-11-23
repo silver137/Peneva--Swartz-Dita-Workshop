@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c_what-are-cookies">
+  <title>What Are Cookies</title>
+
+  <shortdesc>Google uses cookies for functionality, security, advertising,
+  advertising, and personalization.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / Google Online Help</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <context>NC State uses a variety of Google products on campus, including
+    every student’s official NC State email address. Google collects and uses
+    cookies when you use their products in several different ways.</context>
+
+    <p><b>Functionality:</b> Deliver and maintain Google services
+    <ul>Remembering choices and preferences</ul> <ul>Staying in your set
+    language</ul> <ul>Storing information relating to your session (e.g. the
+    items in your shopping cart)</ul> <ul>Enabling features or performing
+    tasks you requested</ul> <ul>Product optimizations that help maintain and
+    improve that service</ul> <b>Security:</b> Protect you as you interact
+    with a service <ul>Authenticating users</ul> <ul>Protecting against spam,
+    fraud, and abuse</ul> <ul>Tracking outages</ul> <b>Analytics:</b>
+    Understand how you interact with a particular service. <ul>Measure
+    audience engagement and site statistics</ul> <b>Advertising:</b> Serve,
+    render, and personalize ads <ul>Limit the number of times an ad is shown
+    to a user</ul> <ul>Muting ads you have chosen to stop seeing</ul>
+    <ul>Delivering and measuring the effectiveness of ads</ul>
+    <b>Personalization:</b> Show you personalized content <ul>Providing
+    personalized content and features according to user settings</ul>
+    <ul>Relevant results and recommendations</ul> <ul>Customizing YouTube
+    homepage</ul> <ul>Ads tailored to your interests</ul></p>
+
+    <p><b>Note:</b> Even if you reject cookies and similar technologies used
+    for personalization, you may continue to see personalized ads using other
+    identifiers unless you turn off personalized ads. In addition, the
+    non-personalized content and features you see may still be influenced by
+    contextual factors, like your location, language, device type, or the
+    content you’re currently viewing.</p>
+  </conbody>
+</concept>

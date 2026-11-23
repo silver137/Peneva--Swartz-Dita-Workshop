@@ -6,8 +6,8 @@
     <shortdesc>Security risks of outdated software, instructions for checking updates on Mac and Windows, and NC State IT support.</shortdesc>
   </topicmeta>
   <topicref href="c_what-is-outdated-software.dita" type="concept"/>
-  <topicref href="t_how-to-check-for-software-updates-on-mac.dita" type="task"/>
-  <topicref href="t_how-to-check-for-software-updates-on-windows.dita" type="task"/>
-  <topicref href="r_concerns-for-organizations.dita" type="reference"/>
-  <topicref href="r_campus-information-technology-service-portal.dita" type="reference"/>
+  <topicref href="t_how-to-update-mac-operating-system.dita" type="task"/>
+  <topicref href="t_how-to-update-windows-operating-system.dita" type="task"/>
+  <topicref href="r_best-practices-for-updating-software.dita" type="reference"/>
+  <topicref href="r_campus-service-portal-guide.dita" type="reference"/>
 </map>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_what-is-outdated-software">
+ <title>Outdated Software</title>
+ <shortdesc>Outdated software prevents you from fixing bugs and can increase security threats on your devices.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+ <conbody>
+  <p>Outdated software is old software lacking maintenance and vendor support, thus preventing your operating system from recognizing new bugs and deploying solutions. Without vital patches or solutions to issues in your software and operating system, your software and device become susceptible to security threats. Over time, outdated software inhibits your ability to use applications or your device properly due to unresolved internal issues or attempted security threats, viruses, malware, or other attacks your software and system are vulnerable to. Updating your operating systems allows your device to patch known security issues and welcome up-to-date software. You can update your operating system manually or automatically. </p>
+ </conbody>
+</concept>

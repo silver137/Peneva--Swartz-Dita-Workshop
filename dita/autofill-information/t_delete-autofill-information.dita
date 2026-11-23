@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="t_delete-autofill-information">
+  <title>Delete your saved autofill form information in Chrome</title>
+
+  <shortdesc>Learn how to delete your saved autofill form information in
+  Chrome.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / Google Chrome Help</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <taskbody>
+    <p>To delete all of your addresses, payment methods or other saved info in
+    Chrome at the same time:</p>
+
+    <steps>
+      <p>
+        <step>
+          <cmd>On your computer, open Chrome.</cmd>
+        </step>
+
+        <step>
+          <cmd>In the top right, select <uicontrol>More</uicontrol>.</cmd>
+        </step>
+
+        <step>
+          <cmd>Select <uicontrol>Delete browsing data</uicontrol>.</cmd>
+        </step>
+
+        <step>
+          <cmd>Choose a time range, like <uicontrol>Last hour</uicontrol> or
+          <uicontrol>All time</uicontrol>.</cmd>
+        </step>
+
+        <step>
+          <cmd>Under <uicontrol>Advanced</uicontrol>, choose
+          <uicontrol>Autofill form data</uicontrol>.</cmd>
+        </step>
+      </p>
+    </steps>
+  </taskbody>
+</task>

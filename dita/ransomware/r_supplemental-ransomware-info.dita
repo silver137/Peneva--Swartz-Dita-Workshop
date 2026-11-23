@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_supplemental-ransomware-info">
+  <title>Supplemental Ransomware Information</title>
+  <shortdesc>Additional resources to learn in-depth information for
+  approaching, preventing, and raising awareness of ransomware
+  attacks.</shortdesc>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <refbody>
+   <section>
+      <title>Supplemental Ransomware Information</title>
+<p>The following resources can help you understand the complexities of ransomware attacks and how to prevent them.</p>
+    <simpletable id="ransomware-resources">
+      <sthead>
+        <stentry>Resource</stentry>
+        <stentry>Description</stentry>
+      </sthead>
+      <strow>
+        <stentry><xref href="https://www.cisa.gov/stopransomware/ransomware-guide/" scope="external" format="html">#StopRansomware Guide</xref></stentry>
+        <stentry>Comprehensive description of specific ransomware attacks, the
+        abilities of certain malware, impacts on organizations, and best
+        practices to respond to an ongoing attack.</stentry>
+      </strow>
+      <strow>
+        <stentry><xref href="https://www.cisa.gov/sites/default/files/Cyber%20Investigation%20Prep%20-%20Key%20Considerations%20for%20Trusted%20%20Partners%20or%20a%20General%20Audience%20%28Handout%29.pdf" scope="external" format="pdf">FBI Cyber Investigative Report</xref></stentry>
+        <stentry>Specific information and limits of how the FBI can work with
+        organizations to respond to ransomware attacks.</stentry>
+      </strow>
+      <strow>
+        <stentry><xref href="https://www.fbi.gov/news/speeches-and-testimony/cracking-down-on-ransomware-strategies-for-disrupting-criminal-hackers-and-building-resilience-against-cyber-threats" scope="external" format="html">Cracking Down on Ransomware</xref></stentry>
+        <stentry>FBI insight and response to ransomware attacks around the world, along with advice on how to prevent ransomware.</stentry>
+      </strow>
+    </simpletable></section>
+  </refbody>
+</reference>

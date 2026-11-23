@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_types-of-incidents">
+  <title>Types of Incidents</title>
+
+  <shortdesc>Possible incidents that need to be reported.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / NC State</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <context>This page explains how anyone in the campus community can report
+    a suspected cybersecurity incident, which can involve one or more of the
+    following types:</context>
+
+    <p>Potential unauthorized disclosure or alteration of: <ul>University data
+    that is not routinely made available to the general public; for example,
+    employee evaluations.</ul> <ul>Data that the university is legally or
+    contractually bound to protect, such as social security numbers, credit
+    card numbers, or certain research data. </ul></p>
+
+    <p>Loss or theft of computers, electronic storage devices or media
+    containing any of the following: <ul>University data that is not routinely
+    made available to the general public.</ul> <ul>Data that the university is
+    legally or contractually bound to protect.</ul></p>
+
+    <p>Inappropriate content on a university web page, whether accessed
+    directly or via pop-up: <ul>Advertising for a non-educational commercial
+    product; for example, an online pharmacy</ul> <ul>Pornographic material
+    </ul></p>
+
+    <p>Distribution of viruses or malicious software from a device or computer
+    on the university network</p>
+
+    <p>Criminal Activity</p>
+  </conbody>
+</concept>

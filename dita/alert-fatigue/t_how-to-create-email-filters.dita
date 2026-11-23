@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_how-to-create-email-filters">
+ <title>Filter Incoming Emails</title>
+ <shortdesc>Allocate certain emails to specific locations by utilizing Google's filter feature.</shortdesc>
+ <prolog>
+  <author>Spencer Davis</author>
+  <copyright>
+   <copyryear year="2026"/>
+  </copyright>
+ </prolog>
+ <taskbody>
+   <context><p>NC State utilizes the Google Workspace for academic and professional work; therefore, you receive most email communications through Gmail. You may filter certain emails by priority, sender, content, or other personalized criteria. You should consider prioritizing emails from NC State’s Office of Informational Technology (OIT). </p></context>
+   <steps>
+      <step>
+       <cmd>In Gmail, locate the search bar at the top of the window; then, select Show search options.</cmd>
+     </step>
+      <step>
+       <cmd>In the From section, write ‘“help@ncsu.edu” to filter emails from OIT.</cmd>
+     </step>
+      <step>
+       <cmd>Select Create filter.</cmd>
+     </step>
+      <step>
+       <cmd>In the checklist, select “Star it”, “Never send it to Spam”, and “Always mark it as important”.</cmd>
+     </step>
+      <step>
+       <cmd>Select Create filter.</cmd>
+     </step>
+   </steps>
+ </taskbody>
+</task>
+

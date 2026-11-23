@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_autofill-best-practices">
+  <title>Autofill Best Practices</title>
+
+  <shortdesc>A list of ways to mitigate the risks of using
+  autofill.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / TotalDefense.com</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <p><b>Best Practices include:</b></p>
+
+    <p><ul>
+        Require manual confirmation before filling forms
+      </ul> <ul>
+        Regularly review and delete old autofill entries
+      </ul> <ul>
+        Avoid autofill entirely on unfamiliar websites
+      </ul> <ul>
+        Enable multi‑factor authentication on all key accounts
+      </ul> <ul>
+        Keep browsers fully updated
+      </ul> <ul>
+        Remove unnecessary extensions and add‑ons
+      </ul> <ul>
+        Enable built‑in phishing and site warnings
+      </ul> <ul>
+        Block third‑party scripts where possible
+      </ul> <ul>
+        Use a dedicated password manager instead of browser password autofill
+      </ul></p>
+  </conbody>
+</concept>

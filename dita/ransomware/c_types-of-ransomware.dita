@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="c_types-of-ransomware">
+  <title>Types of Ransomware</title>
+  <shortdesc>Types of ransomware and the process actors use to block you from
+  accessing files.</shortdesc>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>A ransomware attack occurs in stages over time and gives actors access
+    to your data. Actors leverage leaking your data against you in exchange
+    for a ransom. Many ransomware attacks begin with phishing users and
+    gaining access to the target system or device using harmful software,
+    known as malware. Once ransomware actors access your device system, they
+    target valuable data such as login credentials, payment methods, and
+    intellectual property. Once actors possess your data, they use your
+    credentials and their software to prevent you from reversing any damage
+    until you pay a ransom, typically through cryptocurrency. Ransomware
+    actors may utilize two general types of attacks: encrypted ransomware
+    requiring users to pay the ransom and receive a key or code to access
+    their data, or non-encrypted ransomware blocking users from accessing
+    anything on the device until paying the ransom. Other forms of ransomware
+    including leakware and wipers produce specialized attacks where actors
+    threaten to dox locations or destroy data. All forms of ransomware risk
+    serious consequences for affected users and range in severity depending on
+    who the attacker(s) and the victim(s) are. Universities include vast
+    collections of personal data allowing ransomware actors to threaten
+    thousands of individuals at once unless the university pays an extreme
+    ransom. You must take precautions to avoid ransomware attacks at the
+    earliest possible stage.</p>
+  </conbody>
+</concept>

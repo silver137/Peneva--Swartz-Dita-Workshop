@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="t_fix-autofill-issues">
+  <title>Fix Autofill Issues</title>
+
+  <shortdesc>Learn how to fix issues when autofill is not working.</shortdesc>
+
+  <prolog>
+    <author>Makayla Muñoz / Google Chrome Help</author>
+
+    <copyright>
+      <copyryear year="2026"/>
+    </copyright>
+  </prolog>
+
+  <taskbody>
+    <p>If Chrome is not suggesting your saved info:</p>
+
+    <steps-unordered>
+      <p>
+        <step>
+          <b>Check Chrome Settings:</b>
+
+          <ul>Make sure that <uicontrol>Save and fill</uicontrol> is turned on
+          for the info that you want to autofill.</ul>
+        </step>
+
+        <step>
+          <b>Review your account:</b>
+
+          <ul>Confirm the name and email shared from your Google Account for
+          autofill at <xref format="html"
+          href="myaccount.google.com/personal-info"
+          scope="external">myaccount.google.com/personal-info</xref>.</ul>
+
+          <ul>Confirm the information that you want to populate is saved, then
+          select <menucascade>
+              <uicontrol>More</uicontrol>
+
+              <uicontrol>Passwords and autofill</uicontrol>
+            </menucascade>.</ul>
+        </step>
+
+        <step>
+          <b>Enter your credentials again:</b>
+
+          <ul>If your login credentials fail, like passkeys or PINs, Chrome
+          can't access your sensitive info. <xref format="html"
+          href="https://support.google.com/chrome/answer/7665664"
+          scope="external"> Learn how to fix issues with passwords and
+          passkeys</xref>.</ul>
+        </step>
+
+        <step>
+          <b>Check website security:</b>
+
+          <ul>If the website is secure, Chrome may not be able to detect
+          certain fields in the form.</ul>
+
+          <ul>If the website is not secure enough, it may not be able to
+          receive info from Chrome.</ul>
+        </step>
+
+        <step>
+          <b>Check Google Wallet settings:</b>
+
+          <ul>To allow autofill to use info from Google Wallet, make sure that
+          Use passes across Google is turned on.</ul>
+        </step>
+      </p>
+    </steps-unordered>
+  </taskbody>
+</task>
