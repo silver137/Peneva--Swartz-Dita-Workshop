@@ -6,6 +6,8 @@
     <shortdesc>Comprehensive cybersecurity guidance, procedures, and reference resources for NC State students, staff, and faculty.</shortdesc>
   </topicmeta>
 
+<!-- Structure Map analysis is in Makayla's Google Drive folder -->
+
   <!-- Audience Filters -->
   <ditavalref href="students.ditaval"/>
   <ditavalref href="staff.ditaval"/>
