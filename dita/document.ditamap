@@ -166,13 +166,13 @@
       <relcell>
         <topicref href="network-security/t_how-to-stay-safe-on-networks.dita" type="task"/>
         <topicref href="network-security/t_report-an-incident-network-security.dita" type="task"/>
-        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-mac.dita" type="task"/>
-        <topicref href="outdated-software/t_how-to-check-for-software-updates-on-windows.dita" type="task"/>
         <topicref href="outdated-software/t_how-to-update-mac-operating-system.dita" type="task"/>
         <topicref href="outdated-software/t_how-to-update-windows-operating-system.dita" type="task"/>
       </relcell>
       <relcell>
         <topicref href="network-security/r_ncsu-security-links.dita" type="reference"/>
+        <topicref href="outdated-software/r_best-practices-for-updating-software.dita" type="reference"/>
+        <topicref href="outdated-software/r_campus-service-portal-guides.dita" type="reference"/>
       </relcell>
     </relrow>
   </reltable>
