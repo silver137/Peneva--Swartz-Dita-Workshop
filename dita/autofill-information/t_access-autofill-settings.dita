@@ -22,15 +22,16 @@
       <p>
         <step>On your computer,<cmd>open Chrome.</cmd></step>
 
-        <step>At the top right,<cmd>select<menucascade>
-            <uicontrol>More</uicontrol>
-
-            <uicontrol>Passwords and autofill</uicontrol>
-          </menucascade>.</cmd> You can also select your <menuscade>
-            <uicontrol>profile picure</uicontrol>
-
-            <uicontrol>Passwords and autofill</uicontrol>
-          </menuscade>.</step>
+        <step>
+          <cmd>At the top right, select <menucascade>
+              <uicontrol>More</uicontrol>
+              <uicontrol>Passwords and autofill</uicontrol>
+            </menucascade>.</cmd>
+          <info>You can also select your <menucascade>
+              <uicontrol>profile picture</uicontrol>
+              <uicontrol>Passwords and autofill</uicontrol>
+            </menucascade>.</info>
+        </step>
       </p>
     </steps>
 
