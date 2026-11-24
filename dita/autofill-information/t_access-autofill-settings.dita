@@ -1,53 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
-"task.dtd">
-<task id="t_access-autofill-settings">
-  <title>Manage Saved Form Information</title>
-
-  <shortdesc>Learn how to access and manage your saved autofill settings in Chrome.</shortdesc>
-
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-add-new-phone-to-duo">
+  <title>Add a New Phone to Duo</title>
+  <shortdesc>Reconnect or transfer Duo authentication when replacing, losing, or upgrading your phone.</shortdesc>
   <prolog>
-    <author>Makayla Muñoz</author>
+    <author>Denitsa Peneva</author>
     <copyright>
       <copyryear year="2026"/>
       <copyrholder>NC State University</copyrholder>
     </copyright>
   </prolog>
-
   <taskbody>
-  <section>
-    <p>To manage your saved autofill information:</p>
-
+    <prereq>
+      <p>Before you begin, make sure you have the following:</p>
+      <ul>
+        <li>Your NC State Unity ID and password</li>
+        <li>Access to text messages on the phone number currently registered with Duo</li>
+        <li>The <keyword>Duo Mobile</keyword> app installed on your new phone</li>
+      </ul>
+    </prereq>
+    <context>
+      <p>Use these steps if you used the <keyword>Duo Mobile</keyword> app on your old phone and kept the same phone number. Complete the browser steps on a computer so you can scan the activation QR code with your new phone.</p>
+      <ul>
+        <li>If you only received verification codes by text message and kept the same phone number, no action is required; your text codes will continue automatically.</li>
+        <li>If your phone number changed, contact the NC State Help Desk at 919-515-4357 (HELP) to register your new number.</li>
+      </ul>
+    </context>
     <steps>
-      
-        <step><cmd>On your computer, open Chrome.</cmd></step>
-
-        <step>
-          <cmd>At the top right, select <menucascade>
-              <uicontrol>More</uicontrol>
-              <uicontrol>Passwords and autofill</uicontrol>
-            </menucascade>.</cmd>
-          <info>You can also select your <menucascade>
-              <uicontrol>profile picture</uicontrol>
-              <uicontrol>Passwords and autofill</uicontrol>
-            </menucascade>.</info>
-        </step>
-      
+      <step>
+        <cmd>On your computer, open a web browser and go to <xref href="https://docs.shib.ncsu.edu/duoenroll/" format="html" scope="external">https://docs.shib.ncsu.edu/duoenroll/</xref>.</cmd>
+      </step>
+      <step>
+        <cmd>Sign in with your NC State Unity ID and password.</cmd>
+      </step>
+      <step>
+        <cmd>Leave the <uicontrol>Passcode</uicontrol> field empty and select <uicontrol>Enter a Passcode</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Text me new codes</uicontrol> in the blue box at the bottom of the page.</cmd>
+        <stepresult>
+          <p>Duo sends a verification code via text message to your phone.</p>
+        </stepresult>
+      </step>
+      <step>
+        <cmd>Enter the texted verification code into the <uicontrol>Login</uicontrol> field and select <uicontrol>Log in</uicontrol>.</cmd>
+        <stepresult>
+          <p>The My Settings and Device page opens.</p>
+        </stepresult>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Device Options</uicontrol> next to your old phone entry.</cmd>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Reactivate DUO Mobile</uicontrol>.</cmd>
+        <stepresult>
+          <p>An activation QR code appears on your computer screen.</p>
+        </stepresult>
+      </step>
+      <step>
+        <cmd>Open the <keyword>Duo Mobile</keyword> app on your new phone, follow the prompts to add an account, and scan the QR code displayed on your computer screen.</cmd>
+      </step>
     </steps>
-
-    <p>You can manage your autofill information for forms like:</p>
-
-    <ul>
-      <li>Google Password Manager</li>
-
-      <li>Payments</li>
-
-      <li>Contact Information</li>
-
-      <li>Identity Documents</li>
-
-      <li>Travel</li >
-    </ul>
-  </section>
+    <result>
+      <p>Your new phone is active for Duo authentication, and you can use the <keyword>Duo Mobile</keyword> app to receive verification codes.</p>
+    </result>
   </taskbody>
 </task>
