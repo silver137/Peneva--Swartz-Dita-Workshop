@@ -48,15 +48,15 @@
       <step>
          General description of event with the following information, if applicable: 
 
-        <ul>Computer name</ul>
+        <ul> <li>Computer name</li>
 
          
 
-        <ul>IP address of each computer involved</ul>
+        <li>IP address of each computer involved </li>
 
          
 
-        <ul>Logs from each computer involved</ul>
+        <li>Logs from each computer involved</li> </ul>
 
          
       </step>
