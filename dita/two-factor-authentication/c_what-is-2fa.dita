@@ -19,7 +19,7 @@
         <li><b>First factor (something you know):</b> Your NC State Unity ID password.</li>
         <li><b>Second factor (something you have):</b> A verification prompt or passcode from the <keyword>Duo Mobile</keyword> app, a text message code, or a hardware security key.</li>
       </ul>
+      <note type="important">Core <keyword>Duo</keyword> <term>MFA</term> protections apply across all NC State students, faculty, and staff to safeguard university devices, networks, and databases.</note>
     </section>
-    <note type="important">Core <keyword>Duo</keyword> <term>MFA</term> protections apply across all NC State students, faculty, and staff to safeguard university devices, networks, and databases.</note>
   </conbody>
 </concept>
