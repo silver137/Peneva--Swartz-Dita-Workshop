@@ -5,7 +5,7 @@
   <title>Report an Incident at NC State</title>
 
   <shortdesc>Follow these steps to report an incident that happened at NC
-  State on through its networks.</shortdesc>
+  State or through its networks.</shortdesc>
 
   <prolog>
     <author>Makayla Muñoz</author>
@@ -16,50 +16,35 @@
   </prolog>
 
   <taskbody>
-    <context>To report a suspected incident, gather the following information
-    and send it in an email to <b>help@ncsu.edu</b> or call the <b>NC State
-    Help Desk</b> at <b>(919) 515-4357</b>:</context>
-
-    <steps-unordered>
+    <steps>
       <step>
-        <cmd>Type of incident (select from the "Type of Incidents" list)</cmd>
+        <cmd>Gather the following information about the incident:</cmd>
+        <info>
+          <ul>
+            <li>Type of incident (select from the "Type of Incidents" list)</li>
+            <li>Your name</li>
+            <li>Your email address</li>
+            <li>Your phone number</li>
+            <li>Your department</li>
+            <li>Date and time of the incident</li>
+            <li>General description of the event, including the following details if applicable:
+              <ul>
+                <li>Computer name</li>
+                <li>IP address of each computer involved</li>
+                <li>Logs from each computer involved</li>
+              </ul>
+            </li>
+          </ul>
+        </info>
       </step>
 
       <step>
-        Your name
+        <cmd>Send the information to the NC State Help Desk using one of the following methods:</cmd>
+        <choices>
+          <choice>Email <xref href="mailto:help@ncsu.edu" format="html" scope="external">help@ncsu.edu</xref>.</choice>
+          <choice>Call <b>(919) 515-4357</b>.</choice>
+        </choices>
       </step>
-
-      <step>
-        Your email address
-      </step>
-
-      <step>
-        Your phone number
-      </step>
-
-      <step>
-        Your department 
-      </step>
-
-      <step>
-        Date and time of the incident 
-      </step>
-
-      <step>
-        General description of event with the following information, if applicable: 
-
-        <ul> <li>Computer name</li>
-
-         
-
-        <li>IP address of each computer involved</li>
-
-         
-
-        <li>Logs from each computer involved</li> </ul>
-  
-         
-      </step>
-    </steps-unordered>
+    </steps>
   </taskbody>
 </task>

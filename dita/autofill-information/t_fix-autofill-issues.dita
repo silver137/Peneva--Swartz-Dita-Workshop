@@ -21,14 +21,14 @@
     <steps-unordered>
       <p>
         <step>
-          <b>Check Chrome Settings:</b>
+          <cmd><b>Check Chrome Settings:</b></cmd>
 
           <p>Make sure that <uicontrol>Save and fill</uicontrol> is turned on
           for the info that you want to autofill.</p>
         </step>
 
         <step>
-          <b>Review your account:</b>
+          <cmd><b>Review your account:</b></cmd>
 
           <p>Confirm the name and email shared from your Google Account for
           autofill at <xref format="html"
@@ -44,7 +44,7 @@
         </step>
 
         <step>
-          <b>Enter your credentials again:</b>
+          <cmd><b>Enter your credentials again:</b></cmd>
 
           <p>If your login credentials fail, like passkeys or PINs, Chrome
           can't access your sensitive info. <xref format="html"
@@ -54,7 +54,7 @@
         </step>
 
         <step>
-          <b>Check website security:</b>
+          <cmd><b>Check website security:</b></cmd>
           <ul>
           <li>If the website is secure, Chrome may not be able to detect
           certain fields in the form.</li>
@@ -65,7 +65,7 @@
         </step>
 
         <step>
-          <b>Check Google Wallet settings:</b>
+          <cmd><b>Check Google Wallet settings:</b></cmd>
 
           <p>To allow autofill to use info from Google Wallet, make sure that
           Use passes across Google is turned on.</p>

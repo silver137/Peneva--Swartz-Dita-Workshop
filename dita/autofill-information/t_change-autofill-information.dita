@@ -32,8 +32,8 @@
         fill</uicontrol> on or off.</cmd> This allows you turn autofill off
         completely.</step>
 
-        <step>To add, edit or delete autofill information, follow the steps in
-        the table: <choicetable>
+        <step>To add, edit or delete autofill information, <cmd> follow the steps in
+        the table:</cmd> <choicetable>
             <chhead>
               <choptionhd>Option</choptionhd>
 
