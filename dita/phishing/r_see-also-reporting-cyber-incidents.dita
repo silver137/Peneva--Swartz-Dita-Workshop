@@ -5,9 +5,9 @@
   <shortdesc>Official NC State OIT, CISA, and NIST contacts and reference links for reporting phishing and cybersecurity incidents.</shortdesc>
   <prolog>
     <metadata>
-      <audience type="students"/>
-      <audience type="staff"/>
-      <audience type="faculty"/>
+      <audience type="other" othertype="students"/>
+      <audience type="other" othertype="staff"/>
+      <audience type="other" othertype="faculty"/>
     </metadata>
   </prolog>
   <refbody>

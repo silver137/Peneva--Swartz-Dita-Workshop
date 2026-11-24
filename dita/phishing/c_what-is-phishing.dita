@@ -5,9 +5,9 @@
   <shortdesc>Phishing is a social engineering attack in which criminals impersonate trusted people or organizations to steal credentials, financial data, or university information.</shortdesc>
   <prolog>
     <metadata>
-      <audience type="students"/>
-      <audience type="staff"/>
-      <audience type="faculty"/>
+      <audience type="other" othertype="students"/>
+      <audience type="other" othertype="staff"/>
+      <audience type="other" othertype="faculty"/>
     </metadata>
   </prolog>
   <conbody>

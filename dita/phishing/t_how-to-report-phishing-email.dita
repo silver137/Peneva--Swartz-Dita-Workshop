@@ -5,9 +5,9 @@
   <shortdesc>Follow these steps to safely report suspicious emails or text messages to NC State OIT Cybersecurity Operations.</shortdesc>
   <prolog>
     <metadata>
-      <audience type="students"/>
-      <audience type="staff"/>
-      <audience type="faculty"/>
+      <audience type="other" othertype="students"/>
+      <audience type="other" othertype="staff"/>
+      <audience type="other" othertype="faculty"/>
     </metadata>
   </prolog>
   <taskbody>
