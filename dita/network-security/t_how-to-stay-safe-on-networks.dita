@@ -18,84 +18,76 @@
   <taskbody>
     <steps-unordered>
       <step>
-        <cmd>
-          <b>Use a Virtual Private Network (VPN):</b>
-        </cmd>
-
-        <p>A VPN encrypts your internet connection, making it much harder for
-        hackers to intercept your data. Always use a trusted VPN service when
-        connecting to public Wi-Fi.</p>
+        <cmd>Use a trusted Virtual Private Network (VPN) when connecting to
+        public Wi-Fi.</cmd>
+        <info>
+          <p>A VPN encrypts your internet connection, making it much harder for
+          hackers to intercept your data.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Enable Multi-Factor Authentication (MFA):</b>
-        </cmd>
-
-        <p>For important accounts (such as email and banking), enable
-        multi-factor authentication. This adds an extra layer of protection,
-        even if your password is compromised.</p>
+        <cmd>Enable multi-factor authentication (MFA) on important accounts,
+        such as email and banking.</cmd>
+        <info>
+          <p>This adds an extra layer of protection, even if your password is
+          compromised.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Avoid Sensitive Transactions:</b>
-        </cmd>
-
-        <p>Refrain from logging into sensitive accounts or making online
-        purchases while connected to public Wi-Fi. Wait until you're on a
-        trusted, secure network.</p>
+        <cmd>Avoid logging into sensitive accounts or making online purchases
+        while connected to public Wi-Fi.</cmd>
+        <info>
+          <p>Wait until you are on a trusted, secure network before completing
+          sensitive transactions.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Use HTTPS Websites:</b>
-        </cmd>
-
-        <p>Ensure the websites you visit are secure by checking that they
-        begin with HTTPS rather than HTTP. A padlock symbol in the address bar
-        indicates a secure connection.</p>
+        <cmd>Ensure the websites you visit use HTTPS rather than HTTP.</cmd>
+        <info>
+          <p>A padlock symbol in the address bar also indicates a secure
+          connection.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Turn Off Sharing Features:</b>
-        </cmd>
-
-        <p>Public networks make it easier for others to access your device if
-        file-sharing or printer-sharing features are enabled. Turn these
-        features off in your system settings while on public Wi-Fi.</p>
+        <cmd>Turn off file-sharing and printer-sharing features in your system
+        settings while on public Wi-Fi.</cmd>
+        <info>
+          <p>Public networks make it easier for others to access your device if
+          sharing features are left enabled.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Disable Auto-Connect:</b>
-        </cmd>
-
-        <p>Most devices have an option to automatically connect to available
-        Wi-Fi networks. Disabling this feature can prevent your device from
-        connecting to insecure or rogue networks without your knowledge.</p>
+        <cmd>Disable the auto-connect feature for Wi-Fi networks on your
+        device.</cmd>
+        <info>
+          <p>Most devices automatically connect to available Wi-Fi networks by
+          default. Turning this feature off prevents your device from
+          connecting to insecure or rogue networks without your knowledge.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Keep Your Software Updated:</b>
-        </cmd>
-
-        <p>Ensure that your operating system, browser, and security software
-        are up to date. Software updates often contain security patches that
-        protect against newly discovered threats.</p>
+        <cmd>Keep your operating system, browser, and security software up to
+        date.</cmd>
+        <info>
+          <p>Software updates often contain security patches that protect
+          against newly discovered threats.</p>
+        </info>
       </step>
 
       <step>
-        <cmd>
-          <b>Stay up to date on NC State Cybersecurity Training:</b>
-        </cmd>
-
-        <p>NC State Cybersecurity Training is required for all employees and
-        new undergraduate students beginning in October 2026. It is highly
-        encouraged for all students, staff, and faculty to go through the
-        training to educate themselves on cybersecurity issues.</p>
+        <cmd>Complete NC State Cybersecurity Training.</cmd>
+        <info>
+          <p>NC State Cybersecurity Training is required for all employees and
+          new undergraduate students beginning in October 2026. It is highly
+          encouraged for all students, staff, and faculty to complete the
+          training to educate themselves on cybersecurity issues.</p>
+        </info>
       </step>
     </steps-unordered>
   </taskbody>
