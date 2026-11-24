@@ -2,10 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
 "task.dtd">
 <task id="t_delete-autofill-information">
-  <title>Delete your saved autofill form information in Chrome</title>
+  <title>Delete Your Saved Autofill Form Information in Chrome</title>
 
-  <shortdesc>Learn how to delete your saved autofill form information in
-  Chrome.</shortdesc>
+  <shortdesc>Delete all of your saved addresses, payment methods, and other
+  autofill form information in Chrome at the same time.</shortdesc>
 
   <prolog>
     <author>Makayla Muñoz</author>
@@ -16,35 +16,36 @@
   </prolog>
 
   <taskbody>
-  <section>
-    <p>To delete all of your addresses, payment methods or other saved info in
-    Chrome at the same time:</p>
+    <context>
+      <p>To delete all of your addresses, payment methods, or other saved info
+      in Chrome at the same time:</p>
+    </context>
 
     <steps>
-      <p>
-        <step>
-          <cmd>On your computer, open Chrome.</cmd>
-        </step>
+      <step>
+        <cmd>On your computer, open Chrome.</cmd>
+      </step>
 
-        <step>
-          <cmd>In the top right, select <uicontrol>More</uicontrol>.</cmd>
-        </step>
+      <step>
+        <cmd>In the top right, select <uicontrol>More</uicontrol>.</cmd>
+      </step>
 
-        <step>
-          <cmd>Select <uicontrol>Delete browsing data</uicontrol>.</cmd>
-        </step>
+      <step>
+        <cmd>Select <uicontrol>Delete browsing data</uicontrol>.</cmd>
+      </step>
 
-        <step>
-          <cmd>Choose a time range, like <uicontrol>Last hour</uicontrol> or
-          <uicontrol>All time</uicontrol>.</cmd>
-        </step>
+      <step>
+        <cmd>Choose a time range, such as <uicontrol>Last hour</uicontrol> or
+        <uicontrol>All time</uicontrol>.</cmd>
+      </step>
 
-        <step>
-          <cmd>Under <uicontrol>Advanced</uicontrol>, choose
-          <uicontrol>Autofill form data</uicontrol>.</cmd>
-        </step>
-      </p>
+      <step>
+        <cmd>Under <uicontrol>Advanced</uicontrol>, choose
+        <uicontrol>Autofill form data</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Select <uicontrol>Delete data</uicontrol>.</cmd>
+      </step>
     </steps>
-  </section>
   </taskbody>
 </task>

@@ -2,9 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
 "task.dtd">
 <task id="t_fix-autofill-issues">
-  <title>Fix Autofill Issues</title>
+  <title>Fix Autofill Issues in Chrome</title>
 
-  <shortdesc>Learn how to fix issues when autofill is not working.</shortdesc>
+  <shortdesc>Troubleshoot and resolve issues when Chrome does not suggest your
+  saved autofill information.</shortdesc>
 
   <prolog>
     <author>Makayla Muñoz</author>
@@ -15,63 +16,66 @@
   </prolog>
 
   <taskbody>
-  <section>
-    <p>If Chrome is not suggesting your saved info:</p>
+    <context>
+      <p>If Chrome is not suggesting your saved info, try the following
+      solutions:</p>
+    </context>
 
     <steps-unordered>
-      <p>
-        <step>
-          <cmd><b>Check Chrome Settings:</b></cmd>
-
+      <step>
+        <cmd>Check your Chrome settings.</cmd>
+        <info>
           <p>Make sure that <uicontrol>Save and fill</uicontrol> is turned on
           for the info that you want to autofill.</p>
-        </step>
+        </info>
+      </step>
 
-        <step>
-          <cmd><b>Review your account:</b></cmd>
-
+      <step>
+        <cmd>Review your Google Account settings.</cmd>
+        <info>
           <p>Confirm the name and email shared from your Google Account for
           autofill at <xref format="html"
-          href="myaccount.google.com/personal-info"
+          href="https://myaccount.google.com/personal-info"
           scope="external">myaccount.google.com/personal-info</xref>.</p>
 
           <p>Confirm the information that you want to populate is saved, then
           select <menucascade>
               <uicontrol>More</uicontrol>
-
               <uicontrol>Passwords and autofill</uicontrol>
             </menucascade>.</p>
-        </step>
+        </info>
+      </step>
 
-        <step>
-          <cmd><b>Enter your credentials again:</b></cmd>
-
-          <p>If your login credentials fail, like passkeys or PINs, Chrome
-          can't access your sensitive info. <xref format="html"
+      <step>
+        <cmd>Enter your login credentials again.</cmd>
+        <info>
+          <p>If your login credentials fail, such as passkeys or PINs, Chrome
+          cannot access your sensitive info. See <xref format="html"
           href="https://support.google.com/chrome/answer/7665664"
-          scope="external"> Learn how to fix issues with passwords and
-          passkeys</xref>.</p>
-        </step>
+          scope="external">Fix issues with passwords and passkeys</xref> for
+          more help.</p>
+        </info>
+      </step>
 
-        <step>
-          <cmd><b>Check website security:</b></cmd>
+      <step>
+        <cmd>Check the website's security.</cmd>
+        <info>
           <ul>
-          <li>If the website is secure, Chrome may not be able to detect
-          certain fields in the form.</li>
-
-          <li>If the website is not secure enough, it may not be able to
-          receive info from Chrome.</li>
+            <li>If the website is secure, Chrome may not be able to detect
+            certain fields in the form.</li>
+            <li>If the website is not secure enough, it may not be able to
+            receive info from Chrome.</li>
           </ul>
-        </step>
+        </info>
+      </step>
 
-        <step>
-          <cmd><b>Check Google Wallet settings:</b></cmd>
-
+      <step>
+        <cmd>Check your Google Wallet settings.</cmd>
+        <info>
           <p>To allow autofill to use info from Google Wallet, make sure that
-          Use passes across Google is turned on.</p>
-        </step>
-      </p>
+          <uicontrol>Use passes across Google</uicontrol> is turned on.</p>
+        </info>
+      </step>
     </steps-unordered>
-  </section>
   </taskbody>
 </task>
