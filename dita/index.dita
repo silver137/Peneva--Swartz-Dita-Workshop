@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="index">
   <title>NC State Cybersecurity Guide</title>
   <shortdesc>Essential cybersecurity concepts, step-by-step setup guides, and campus resources for NC State students, faculty, and staff.</shortdesc>
@@ -9,6 +9,7 @@
     <author>Spencer Davis</author>
     <copyright>
       <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
     </copyright>
   </prolog>
 <conbody>
