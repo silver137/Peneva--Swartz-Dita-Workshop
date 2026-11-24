@@ -18,24 +18,18 @@
   <conbody>
     <p><b>Best Practices include:</b></p>
 
-    <p><ul>
-        Require manual confirmation before filling forms
-      </ul> <ul>
-        Regularly review and delete old autofill entries
-      </ul> <ul>
-        Avoid autofill entirely on unfamiliar websites
-      </ul> <ul>
-        Enable multi‑factor authentication on all key accounts
-      </ul> <ul>
-        Keep browsers fully updated
-      </ul> <ul>
-        Remove unnecessary extensions and add‑ons
-      </ul> <ul>
-        Enable built‑in phishing and site warnings
-      </ul> <ul>
-        Block third‑party scripts where possible
-      </ul> <ul>
-        Use a dedicated password manager instead of browser password autofill
-      </ul></p>
+    <p>
+    <ul>
+      <li>Require manual confirmation before filling forms</li>
+      <li>Regularly review and delete old autofill entries</li>
+      <li>Avoid autofill entirely on unfamiliar websites</li>
+      <li>Enable multi‑factor authentication on all key accounts</li>
+      <li>Keep browsers fully updated</li>
+      <li>Remove unnecessary extensions and add‑ons</li>
+      <li>Enable built‑in phishing and site warnings</li>
+      <li>Block third‑party scripts where possible</li>
+      <li>Use a dedicated password manager instead of browser password autofill</li>
+    </ul>
+    </p>
   </conbody>
 </concept>
