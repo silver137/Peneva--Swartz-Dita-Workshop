@@ -18,7 +18,6 @@
   <conbody>
     <p><b>Best Practices include:</b></p>
 
-    <p>
     <ul>
       <li>Require manual confirmation before filling forms</li>
       <li>Regularly review and delete old autofill entries</li>
@@ -30,6 +29,5 @@
       <li>Block third‑party scripts where possible</li>
       <li>Use a dedicated password manager instead of browser password autofill</li>
     </ul>
-    </p>
   </conbody>
 </concept>

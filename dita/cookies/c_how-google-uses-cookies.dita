@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<concept id="c_what-are-cookies">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how-google-uses-cookies">
   <title>What Are Cookies</title>
 
   <shortdesc>Google uses cookies for functionality, security, advertising,
@@ -15,9 +16,9 @@
 
   <conbody>
   <section>
-    <context>NC State uses a variety of Google products on campus, including
+    <p>NC State uses a variety of Google products on campus, including
     every student’s official NC State email address. Google collects and uses
-    cookies when you use their products in several different ways.</context>
+    cookies when you use their products in several different ways.</p>
 
     <p><b>Functionality:</b> Deliver and maintain Google services</p>
     <ul>

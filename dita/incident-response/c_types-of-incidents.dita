@@ -15,25 +15,28 @@
   </prolog>
 
   <conbody>
-    <context>This page explains how anyone in the campus community can report
+    <p>This page explains how anyone in the campus community can report
     a suspected cybersecurity incident, which can involve one or more of the
-    following types:</context>
+    following types:</p>
 
-    <p>Potential unauthorized disclosure or alteration of: <ul><li>University data
+    <p>Potential unauthorized disclosure or alteration of:</p>
+    <ul><li>University data
     that is not routinely made available to the general public; for example,
     employee evaluations.</li> <li>Data that the university is legally or
     contractually bound to protect, such as social security numbers, credit
-    card numbers, or certain research data. </li></ul></p>
+    card numbers, or certain research data.</li></ul>
 
     <p>Loss or theft of computers, electronic storage devices or media
-    containing any of the following: <ul><li>University data that is not routinely
+    containing any of the following:</p>
+    <ul><li>University data that is not routinely
     made available to the general public.</li> <li>Data that the university is
-    legally or contractually bound to protect.</li></ul></p>
+    legally or contractually bound to protect.</li></ul>
 
     <p>Inappropriate content on a university web page, whether accessed
-    directly or via pop-up: <ul><li>Advertising for a non-educational commercial
+    directly or via pop-up:</p>
+    <ul><li>Advertising for a non-educational commercial
     product; for example, an online pharmacy</li> <li>Pornographic material
-    </li></ul></p>
+    </li></ul>
 
     <p>Distribution of viruses or malicious software from a device or computer
     on the university network</p>
