@@ -2,10 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
 "task.dtd">
 <task id="t_how-to-clear-cookies-and-cache">
-  <title>Clear Cookies and Cache</title>
+  <title>Clear Cookies and Cache in Chrome</title>
 
-  <shortdesc>Learn how to clear your device’s cookies and cache from
-  Chrome.</shortdesc>
+  <shortdesc>Clear your device's cookies and cache in Google Chrome.</shortdesc>
 
   <prolog>
     <author>Makayla Muñoz</author>
@@ -16,49 +15,38 @@
   </prolog>
 
   <taskbody>
-    <prereq>To clear your cookies and cache from Microsoft Edge and Safari,
-    see the links below.</prereq>
-
-    <context>How to clear your cache and cookies.</context>
+    <context>
+      <p>These steps apply to Google Chrome. To clear your cookies and cache
+      from Microsoft Edge or Safari, see the related links below.</p>
+    </context>
 
     <steps>
       <step>
-        On your computer, 
-
-        <cmd>open Chrome.</cmd>
-
-         
+        <cmd>On your computer, open Chrome.</cmd>
       </step>
 
       <step>
-        At the top right, 
-
-        <cmd>select <menucascade><uicontrol>More</uicontrol> <uicontrol>Delete browsing
+        <cmd>At the top right, select <menucascade><uicontrol>More</uicontrol><uicontrol>Delete browsing
         data</uicontrol></menucascade>.</cmd>
-
-         
       </step>
 
       <step>
-        <cmd>Choose a time range,</cmd>
-
-        <stepxmp>like <uicontrol>Last hour</uicontrol> or <uicontrol>All time</uicontrol>.</stepxmp>
+        <cmd>Choose a time range.</cmd>
+        <stepxmp>For example, select <uicontrol>Last hour</uicontrol> or
+        <uicontrol>All time</uicontrol>.</stepxmp>
       </step>
 
       <step>
-        <cmd>Select cookies and other site data.</cmd>
+        <cmd>Select <uicontrol>Cookies and other site data</uicontrol>.</cmd>
       </step>
 
       <step>
-        <cmd>Check other items you want to delete.</cmd>
+        <cmd>Select any other items you want to delete, such as
+        <uicontrol>Cached images and files</uicontrol>.</cmd>
       </step>
 
       <step>
-        To confirm, 
-
-        <cmd>select <uicontrol>Delete data</uicontrol>.</cmd>
-
-         
+        <cmd>To confirm, select <uicontrol>Delete data</uicontrol>.</cmd>
       </step>
     </steps>
   </taskbody>

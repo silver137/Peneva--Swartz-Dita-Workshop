@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="r_data-breach-examples">
+ <title>Data Breach Examples</title>
+ <shortdesc>Examples of data breaches in higher education institutions, along with the times of the breach, when they were reported, and how many people were affected.</shortdesc>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
+    </copyright>
+  </prolog>
+</reference>
