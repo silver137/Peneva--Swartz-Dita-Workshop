@@ -19,7 +19,7 @@
     <p>To manage your saved autofill information:</p>
 
     <steps>
-      <p>
+      
         <step><cmd>On your computer, open Chrome.</cmd></step>
 
         <step>
@@ -32,7 +32,7 @@
               <uicontrol>Passwords and autofill</uicontrol>
             </menucascade>.</info>
         </step>
-      </p>
+      
     </steps>
 
     <p>You can manage your autofill information for forms like:</p>
