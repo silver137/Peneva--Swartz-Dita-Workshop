@@ -4,12 +4,13 @@
 <reference id="r_best-practices-for-updating-software">
  <title>Best Practices for Updating Software</title>
  <shortdesc>Best practices and benefits of staying up-to-date with software and system updates.</shortdesc>
- <prolog>
-  <author>Spencer Davis</author>
-  <copyright>
-   <copyryear year="2026"/>
-  </copyright>
- </prolog>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
+    </copyright>
+  </prolog>
   <refbody>
  <section>
       <title>Best Practices</title>

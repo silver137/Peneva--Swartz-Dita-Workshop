@@ -4,12 +4,13 @@
 <task id="t_how-to-receive-campus-security-alerts">
  <title>Receive Campus Security Alerts</title>
  <shortdesc>Receive high-priority alerts by opting-in for campus security notifications..</shortdesc>
- <prolog>
-  <author>Spencer Davis</author>
-  <copyright>
-   <copyryear year="2026"/>
-  </copyright>
- </prolog>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
+    </copyright>
+  </prolog>
  <taskbody>
    <context><p>You must consider opting-in for WolfAlert Messages to receive high-priority notifications from NC State through quick and concise text messages.</p></context>
    <steps>

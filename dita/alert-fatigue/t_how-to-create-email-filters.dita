@@ -4,12 +4,13 @@
 <task id="t_how-to-create-email-filters">
  <title>Filter Incoming Emails</title>
  <shortdesc>Allocate certain emails to specific locations by utilizing Google's filter feature.</shortdesc>
- <prolog>
-  <author>Spencer Davis</author>
-  <copyright>
-   <copyryear year="2026"/>
-  </copyright>
- </prolog>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
+    </copyright>
+  </prolog>
  <taskbody>
    <context><p>NC State utilizes the Google Workspace for academic and professional work; therefore, you receive most email communications through Gmail. You may filter certain emails by priority, sender, content, or other personalized criteria. You should consider prioritizing emails from NC State’s Office of Informational Technology (OIT). </p></context>
    <steps>

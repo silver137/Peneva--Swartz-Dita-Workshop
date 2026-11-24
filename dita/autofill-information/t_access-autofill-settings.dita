@@ -4,17 +4,18 @@
 <task id="t_access-autofill-settings">
   <title>Manage Saved Form Information</title>
 
-  <shortdesc/>
+  <shortdesc>Learn how to access and manage your saved autofill settings in Chrome.</shortdesc>
 
   <prolog>
-    <author>Makayla Muñoz / Google Chrome Help</author>
-
+    <author>Makayla Muñoz</author>
     <copyright>
       <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
     </copyright>
   </prolog>
 
   <taskbody>
+  <section>
     <p>To manage your saved autofill information:</p>
 
     <steps>
@@ -46,5 +47,6 @@
 
       <ul>Travel</ul>
     </p>
+  </section>
   </taskbody>
 </task>

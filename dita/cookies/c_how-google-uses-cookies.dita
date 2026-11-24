@@ -6,14 +6,15 @@
   advertising, and personalization.</shortdesc>
 
   <prolog>
-    <author>Makayla Muñoz / Google Online Help</author>
-
+    <author>Makayla Muñoz</author>
     <copyright>
       <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
     </copyright>
   </prolog>
 
   <conbody>
+  <section>
     <context>NC State uses a variety of Google products on campus, including
     every student’s official NC State email address. Google collects and uses
     cookies when you use their products in several different ways.</context>
@@ -42,5 +43,6 @@
     non-personalized content and features you see may still be influenced by
     contextual factors, like your location, language, device type, or the
     content you’re currently viewing.</p>
+  </section>
   </conbody>
 </concept>

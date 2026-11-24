@@ -4,12 +4,13 @@
 <reference id="r_structure-for-incoming-emails">
  <title>Structuring Your Email Inbox</title>
  <shortdesc>Example files used to filter incoming emails and reduce overwhelming notifications.</shortdesc>
- <prolog>
-  <author>Spencer Davis</author>
-  <copyright>
-   <copyryear year="2026"/>
-  </copyright>
- </prolog>
+  <prolog>
+    <author>Spencer Davis</author>
+    <copyright>
+      <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
+    </copyright>
+  </prolog>
   <refbody>
    <section>
       <title>File Structures</title><p>Using structured files can reduce the clutter in your email inbox and help bring your attention to the content and urgency of each email while reducing alert fatigue The following examples are only a few structures to consider.</p>

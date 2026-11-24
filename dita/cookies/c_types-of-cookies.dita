@@ -9,16 +9,15 @@
   supercookie.</shortdesc>
 
   <prolog>
-    <author>Makayla Muñoz / Vanderbilt University Website</author>
-
+    <author>Makayla Muñoz</author>
     <copyright>
       <copyryear year="2026"/>
+      <copyrholder>NC State University</copyrholder>
     </copyright>
   </prolog>
 
   <conbody>
-     
-
+  
     <p><b>Persistent Cookies</b> are stored on your computer for a
     predetermined period, even after you close your browser. These cookies
     have an expiration date, which determines how long they remain on your
@@ -78,8 +77,6 @@
       rely on third-party cookies, and some companies are exploring
       alternative tracking methods, such as browser fingerprinting.</note>
     </p>
-
-     
 
     <p><b>Supercookies</b> are a more persistent type of tracking cookie
     that’s stored outside of your browser’s usual cookie storage. They can be
