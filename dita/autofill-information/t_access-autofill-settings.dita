@@ -20,7 +20,7 @@
 
     <steps>
       <p>
-        <step>On your computer,<cmd>open Chrome.</cmd></step>
+        <step><cmd>On your computer, open Chrome.</cmd></step>
 
         <step>
           <cmd>At the top right, select <menucascade>
