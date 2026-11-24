@@ -30,44 +30,45 @@
         <step>
           <b>Review your account:</b>
 
-          <ul>Confirm the name and email shared from your Google Account for
+          <p>Confirm the name and email shared from your Google Account for
           autofill at <xref format="html"
           href="myaccount.google.com/personal-info"
-          scope="external">myaccount.google.com/personal-info</xref>.</ul>
+          scope="external">myaccount.google.com/personal-info</xref>.</p>
 
-          <ul>Confirm the information that you want to populate is saved, then
+          <p>Confirm the information that you want to populate is saved, then
           select <menucascade>
               <uicontrol>More</uicontrol>
 
               <uicontrol>Passwords and autofill</uicontrol>
-            </menucascade>.</ul>
+            </menucascade>.</p>
         </step>
 
         <step>
           <b>Enter your credentials again:</b>
 
-          <ul>If your login credentials fail, like passkeys or PINs, Chrome
+          <p>If your login credentials fail, like passkeys or PINs, Chrome
           can't access your sensitive info. <xref format="html"
           href="https://support.google.com/chrome/answer/7665664"
           scope="external"> Learn how to fix issues with passwords and
-          passkeys</xref>.</ul>
+          passkeys</xref>.</p>
         </step>
 
         <step>
           <b>Check website security:</b>
+          <ul>
+          <li>If the website is secure, Chrome may not be able to detect
+          certain fields in the form.</li>
 
-          <ul>If the website is secure, Chrome may not be able to detect
-          certain fields in the form.</ul>
-
-          <ul>If the website is not secure enough, it may not be able to
-          receive info from Chrome.</ul>
+          <li>If the website is not secure enough, it may not be able to
+          receive info from Chrome.</li>
+          </ul>
         </step>
 
         <step>
           <b>Check Google Wallet settings:</b>
 
-          <ul>To allow autofill to use info from Google Wallet, make sure that
-          Use passes across Google is turned on.</ul>
+          <p>To allow autofill to use info from Google Wallet, make sure that
+          Use passes across Google is turned on.</p>
         </step>
       </p>
     </steps-unordered>
