@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_see-also-reporting-cyber-incidents">
-  <title>Report Cyber Incidents</title>
-  <shortdesc>How can you report cybersecurity incidents, including phishing attempts? General incident response guidance.</shortdesc>
+  <title>Phishing and Cyber Incident Reporting Resources</title>
+  <shortdesc>Official NC State OIT, CISA, and NIST contacts and reference links for reporting phishing and cybersecurity incidents.</shortdesc>
   <prolog>
-    <author>Denitsa Peneva</author>
-    <copyright>
-      <copyryear year="2026"/>
-    </copyright>
+    <metadata>
+      <audience type="students"/>
+      <audience type="staff"/>
+      <audience type="faculty"/>
+    </metadata>
   </prolog>
   <refbody>
     <section>
-      <title>NC State Campus Reporting Channels</title>
-      <p>If you observe signs of a compromised Unity account, phishing attack, malware infection, or university data exposure, report the incident immediately through NC State's Office of Information Technology (OIT):</p>
+      <title>NC State Reporting Channels</title>
       <ul>
-        <li><b>NC State OIT Help Desk:</b> Call 919-515-4357 (HELP) or submit a security incident ticket through the <xref href="https://help.ncsu.edu" format="html" scope="external">NC State IT Service Portal</xref>.</li>
-        <li><b>Suspicious Emails and Phishing:</b> Report suspicious emails using Gmail's built-in phishing report feature or forward them to <xref href="mailto:phishing@ncsu.edu" format="html" scope="external">phishing@ncsu.edu</xref>.</li>
+        <li><b>NC State Phishing Reporting Guide:</b> Visit <xref href="https://cybersecurity.ncsu.edu/report-phishing/" format="html" scope="external">Cybersecurity at NC State — Report Phishing</xref> for step-by-step reporting instructions.</li>
+        <li><b>NC State Incident Reporting Portal:</b> Visit <xref href="https://cybersecurity.ncsu.edu/report-an-incident/" format="html" scope="external">Cybersecurity at NC State — Report an Incident</xref> to report compromised accounts, lost devices, or unauthorized data exposure.</li>
+        <li><b>NC State IT Service Portal:</b> Open a support ticket online at <xref href="https://ncsu.service-now.com/sp" format="html" scope="external">ncsu.service-now.com/sp</xref>.</li>
+        <li><b>NC State Help Desk:</b> Call <b>919-515-HELP (4357)</b> or email <b>help@ncsu.edu</b> for immediate assistance.</li>
+        <li><b>OIT Phishing Inbox:</b> Send suspicious email inquiries to <b>phishing@ncsu.edu</b>.</li>
       </ul>
     </section>
-    <section audience="faculty staff">
-      <title>Federal and External Cyber Incident Reporting Agencies</title>
-      <p>According to the Cybersecurity and Infrastructure Security Agency (CISA), organizations and individuals can also report cyber incidents, phishing attempts, malware, and vulnerabilities through federal and state agencies:</p>
+
+    <section>
+      <title>Federal Cybersecurity Guidance</title>
       <ul>
-        <li><b>Cybersecurity and Infrastructure Security Agency (CISA):</b> Provides secure reporting portals for organizations and constituents to report cyber incidents, phishing attempts, malware, and software vulnerabilities at <xref href="https://www.cisa.gov/reporting-cyber-incident" format="html" scope="external">CISA Reporting a Cyber Incident</xref>.</li>
-        <li><b>DHS State and Local Fusion Centers:</b> State-operated centers that receive, analyze, and share cyber threat intelligence across federal, state, local, tribal, and territorial agencies and private-sector partners.</li>
-        <li><b>Local Federal Bureau of Investigation (FBI) Field Office:</b> Serves as the lead federal agency for investigating cyberattacks and intrusions, collecting threat intelligence, and working with victims to identify malicious actors.</li>
-        <li><b>FBI Internet Crime Complaint Center (IC3):</b> Accepts internet crime complaints from both victims and third parties for individual instances of cybercrime and online fraud at <xref href="https://www.ic3.gov" format="html" scope="external">ic3.gov</xref>.</li>
-        <li><b>Local Law Enforcement and Regulatory Agencies:</b> Additional notification channels recommended when observing signs of compromise or regulated data breaches.</li>
+        <li><b>CISA Phishing Guidance:</b> Review <xref href="https://www.cisa.gov/secure-our-world/recognize-and-report-phishing" format="html" scope="external">CISA — Recognize and Report Phishing</xref> for national best practices on identifying social engineering lures.</li>
+        <li><b>NIST Phishing Terminology and Standards:</b> Consult the <xref href="https://csrc.nist.gov/glossary/term/phishing" format="html" scope="external">NIST Computer Security Resource Center Glossary</xref> for formal definitions of phishing and social engineering attacks.</li>
       </ul>
-      <note type="note" audience="faculty staff">Broader federal and institutional incident reporting procedures primarily apply to NC State faculty and staff handling university data and systems.</note>
     </section>
   </refbody>
 </reference>

@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_what-is-phishing">
-  <title>What is Phishing</title>
-  <shortdesc>Phishing attacks, common tactics used by attackers, warning signs of phishing messages, and steps you can take to respond safely.</shortdesc>
+  <title>What Is Phishing?</title>
+  <shortdesc>Phishing is a social engineering attack in which criminals impersonate trusted people or organizations to steal credentials, financial data, or university information.</shortdesc>
   <prolog>
-    <author>Denitsa Peneva</author>
-    <copyright>
-      <copyryear year="2026"/>
-    </copyright>
+    <metadata>
+      <audience type="students"/>
+      <audience type="staff"/>
+      <audience type="faculty"/>
+    </metadata>
   </prolog>
   <conbody>
-    <p>Phishing occurs when cybercriminals send deceptive messages designed to look like they come from a trusted person or organization in order to trick you into opening harmful links, downloading infected attachments, or revealing personal and financial information. These lures commonly arrive as emails, text messages (smishing), social media direct messages, or phone calls. According to CISA, common warning signs include urgent or emotionally appealing language claiming dire consequences, requests for sensitive information, untrusted shortened URLs, and spoofed email addresses or domains—though artificial intelligence (AI) increasingly enables attackers to write messages with flawless spelling and grammar. To respond safely across all campus groups, follow CISA's three steps: recognize the red flags, resist clicking links or attachments, and delete the message after reporting it without replying or clicking unsubscribe links.</p>
+    <p>According to the Cybersecurity and Infrastructure Security Agency (CISA) and the National Institute of Standards and Technology (NIST), <b>phishing</b> uses deceptive emails, text messages, phone calls, or shared documents to trick recipients into clicking malicious links, opening infected attachments, or revealing sensitive information such as Unity passwords and Duo two-factor authentication (2FA) codes.</p>
+
+    <section>
+      <title>Common Types of Phishing</title>
+      <ul>
+        <li><b>Bulk Phishing:</b> Broad, untargeted emails sent to thousands of recipients pretending to be a bank, shipping carrier, or university IT service.</li>
+        <li><b>Spear Phishing:</b> Targeted messages customized for a specific individual, department, or role—such as fake student job offers, fraudulent payroll or pension updates, or messages impersonating NC State faculty and leadership.</li>
+        <li><b>Smishing (SMS Phishing):</b> Fraudulent text messages sent to mobile phones containing malicious links or urgent requests for personal details.</li>
+        <li><b>Vishing (Voice Phishing):</b> Phone calls or voicemails in which scammers pose as technical support, financial institutions, or government agencies.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Warning Signs of a Phishing Scam</title>
+      <ul>
+        <li><b>Urgent or Threatening Language:</b> Claims that your NC State Unity account will be suspended or locked unless you act immediately.</li>
+        <li><b>Mismatched Sender Addresses:</b> Display names that look familiar, paired with an external or misspelled email domain.</li>
+        <li><b>Suspicious Login URLs:</b> Links leading to look-alike login pages. Authentic NC State single sign-on pages always start with <b>shib.ncsu.edu</b> or <b>login.microsoftonline.com</b>.</li>
+        <li><b>Requests for Credentials or Bypass Codes:</b> Unexpected prompts asking for your Unity password, Duo 2FA approval, or financial information.</li>
+        <li><b>Offers That Seem Too Good to Be True:</b> Unsolicited part-time job offers, grant awards, or gift card requests.</li>
+      </ul>
+      <note type="important">NC State Office of Information Technology (OIT) personnel will <b>never</b> ask for your Unity password or Duo 2FA bypass codes via email, text message, or phone.</note>
+    </section>
   </conbody>
 </concept>

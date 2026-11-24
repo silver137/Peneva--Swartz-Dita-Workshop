@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how-to-report-phishing-email">
+  <title>How to Report a Phishing Email</title>
+  <shortdesc>Follow these steps to safely report suspicious emails or text messages to NC State OIT Cybersecurity Operations.</shortdesc>
+  <prolog>
+    <metadata>
+      <audience type="students"/>
+      <audience type="staff"/>
+      <audience type="faculty"/>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>Reporting suspected phishing messages helps NC State OIT block malicious senders and protect the broader campus community.</p>
+      <note type="caution">Do <b>not</b> reply to the sender, click any links, download attachments, or approve unexpected Duo 2FA prompts.</note>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Report the message using NC State Gmail's built-in reporting tool.</cmd>
+        <info>
+          <p>Open the suspicious email in NC State Gmail on a computer, click the <b>More</b> icon (three vertical dots) in the top-right corner of the message pane, and select <b>Report phishing</b>. This sends the message headers directly to Google and NC State OIT Cybersecurity Operations.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Notify NC State OIT if you need assistance or suspect targeted campus activity.</cmd>
+        <info>
+          <p>If you have questions about a suspicious message or cannot use Gmail's built-in button, contact the NC State Help Desk at <b>919-515-HELP (4357)</b>, submit a request through the NC State IT Service Portal, or send details to <b>phishing@ncsu.edu</b>.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Forward fraudulent text messages (smishing) to your mobile carrier.</cmd>
+        <info>
+          <p>If you receive a suspicious text message on your phone, forward it to the short code <b>7726</b> (SPAM) and follow the automated carrier prompt to submit the sender's phone number.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Take immediate action if you clicked a link or entered your credentials.</cmd>
+        <info>
+          <p>If you entered your Unity password on a suspicious page or downloaded an unknown file, immediately change your Unity password, disconnect the device from the network if malware is suspected, and call the NC State Help Desk at <b>919-515-HELP (4357)</b>.</p>
+        </info>
+      </step>
+    </steps>
+
+    <result>
+      <p>The suspicious message is removed from your inbox and routed to NC State OIT Cybersecurity Operations for investigation and campus-wide blocking.</p>
+    </result>
+  </taskbody>
+</task>
