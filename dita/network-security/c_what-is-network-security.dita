@@ -20,21 +20,22 @@
     unauthorized access, misuse, and cyberattacks. It ensures systems remain
     confidential, available, and trustworthy across all digital environments.
     Its features are:</p>
-
     <ul>
-      Prevents unauthorized access and cyber threats
-    </ul>
+      <li>
+        Prevents unauthorized access and cyber threats
+      </li>
 
-    <ul>
-      Protects data integrity, confidentiality, and availability 
-    </ul>
+      <li>
+        Protects data integrity, confidentiality, and availability 
+      </li>
 
-    <ul>
-      Uses layered security controls across devices, users, and systems
-    </ul>
+      <li>
+        Uses layered security controls across devices, users, and systems
+      </li>
 
-    <ul>
-      Ensures safe communication and reliable network operations 
+      <li>
+        Ensures safe communication and reliable network operations 
+      </li>
     </ul>
   </conbody>
 </concept>

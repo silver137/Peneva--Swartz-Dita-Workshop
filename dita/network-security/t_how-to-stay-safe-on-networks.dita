@@ -22,9 +22,9 @@
           <b>Use a Virtual Private Network (VPN):</b>
         </cmd>
 
-        <ul>A VPN encrypts your internet connection, making it much harder for
+        <p>A VPN encrypts your internet connection, making it much harder for
         hackers to intercept your data. Always use a trusted VPN service when
-        connecting to public Wi-Fi.</ul>
+        connecting to public Wi-Fi.</p>
       </step>
 
       <step>
@@ -32,9 +32,9 @@
           <b>Enable Multi-Factor Authentication (MFA):</b>
         </cmd>
 
-        <ul>For important accounts (such as email and banking), enable
+        <p>For important accounts (such as email and banking), enable
         multi-factor authentication. This adds an extra layer of protection,
-        even if your password is compromised.</ul>
+        even if your password is compromised.</p>
       </step>
 
       <step>
@@ -42,9 +42,9 @@
           <b>Avoid Sensitive Transactions:</b>
         </cmd>
 
-        <ul>Refrain from logging into sensitive accounts or making online
+        <p>Refrain from logging into sensitive accounts or making online
         purchases while connected to public Wi-Fi. Wait until you're on a
-        trusted, secure network.</ul>
+        trusted, secure network.</p>
       </step>
 
       <step>
@@ -52,9 +52,9 @@
           <b>Use HTTPS Websites:</b>
         </cmd>
 
-        <ul>Ensure the websites you visit are secure by checking that they
+        <p>Ensure the websites you visit are secure by checking that they
         begin with HTTPS rather than HTTP. A padlock symbol in the address bar
-        indicates a secure connection.</ul>
+        indicates a secure connection.</p>
       </step>
 
       <step>
@@ -62,9 +62,9 @@
           <b>Turn Off Sharing Features:</b>
         </cmd>
 
-        <ul>Public networks make it easier for others to access your device if
+        <p>Public networks make it easier for others to access your device if
         file-sharing or printer-sharing features are enabled. Turn these
-        features off in your system settings while on public Wi-Fi.</ul>
+        features off in your system settings while on public Wi-Fi.</p>
       </step>
 
       <step>
@@ -72,9 +72,9 @@
           <b>Disable Auto-Connect:</b>
         </cmd>
 
-        <ul>Most devices have an option to automatically connect to available
+        <p>Most devices have an option to automatically connect to available
         Wi-Fi networks. Disabling this feature can prevent your device from
-        connecting to insecure or rogue networks without your knowledge.</ul>
+        connecting to insecure or rogue networks without your knowledge.</p>
       </step>
 
       <step>
@@ -82,9 +82,9 @@
           <b>Keep Your Software Updated:</b>
         </cmd>
 
-        <ul>Ensure that your operating system, browser, and security software
+        <p>Ensure that your operating system, browser, and security software
         are up to date. Software updates often contain security patches that
-        protect against newly discovered threats.</ul>
+        protect against newly discovered threats.</p>
       </step>
 
       <step>
@@ -92,10 +92,10 @@
           <b>Stay up to date on NC State Cybersecurity Training:</b>
         </cmd>
 
-        <ul>NC State Cybersecurity Training is required for all employees and
+        <p>NC State Cybersecurity Training is required for all employees and
         new undergraduate students beginning in October 2026. It is highly
         encouraged for all students, staff, and faculty to go through the
-        training to educate themselves on cybersecurity issues.</ul>
+        training to educate themselves on cybersecurity issues.</p>
       </step>
     </steps-unordered>
   </taskbody>

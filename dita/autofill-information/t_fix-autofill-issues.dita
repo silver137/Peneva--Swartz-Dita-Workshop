@@ -23,8 +23,8 @@
         <step>
           <b>Check Chrome Settings:</b>
 
-          <ul>Make sure that <uicontrol>Save and fill</uicontrol> is turned on
-          for the info that you want to autofill.</ul>
+          <p>Make sure that <uicontrol>Save and fill</uicontrol> is turned on
+          for the info that you want to autofill.</p>
         </step>
 
         <step>
