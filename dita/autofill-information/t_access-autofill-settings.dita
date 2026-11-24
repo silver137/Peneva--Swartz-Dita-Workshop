@@ -36,17 +36,17 @@
 
     <p>You can manage your autofill information for forms like:</p>
 
-    <p>
-      <ul>Google Password Manager</ul>
+    <ul>
+      <li>Google Password Manager</li>
 
-      <ul>Payments</ul>
+      <li>Payments</li>
 
-      <ul>Contact Information</ul>
+      <li>Contact Information</li>
 
-      <ul>Identity Documents</ul>
+      <li>Identity Documents</li>
 
-      <ul>Travel</ul>
-    </p>
+      <li>Travel</li >
+    </ul>
   </section>
   </taskbody>
 </task>

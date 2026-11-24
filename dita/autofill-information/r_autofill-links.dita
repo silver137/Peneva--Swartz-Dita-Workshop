@@ -39,14 +39,17 @@
           <stentry>Safari</stentry>
 
           <stentry><ul>
+            <li>
               <xref format="html"
               href="https://support.apple.com/guide/safari/autofill-ibrwa005/mac"
               scope="external">Change Autofill settings in Safari on
               Mac</xref>
-            </ul> <ul>
+            </li>
+            <li>
               <xref format="html"
               href="https://support.apple.com/guide/safari/if-autofill-doesnt-work-ibrw1100/27.0/mac/27"
               scope="external">Navigating Safari Autofill Issues on Mac</xref>
+            </li>
             </ul></stentry>
         </strow>
       </simpletable></section>
