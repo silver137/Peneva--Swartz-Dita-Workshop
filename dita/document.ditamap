@@ -41,7 +41,7 @@
     <topicref href="phishing/r_see-also-reporting-cyber-incidents.dita" type="reference" audience="staff faculty"/>
     <topicref href="ransomware/c_what-is-ransomware.dita" type="concept"/>
     <topicref href="ransomware/c_types-of-ransomware.dita" type="concept"/>
-    <topicref href="ransomware/t_how-to-analyze-suspicious-emails.dita" type="task"/>
+    <topicref href="ransomware/t_how-to-identify-phishing-attempts.dita" type="task"/>
     <topicref href="ransomware/r_supplemental-ransomware-info.dita" type="reference"/>
     <topicref href="ransomware/r_ransomware-protection-software.dita" type="reference"/>
     <topicref href="data-breach/c_what-is-a-data-breach.dita" type="concept"/>
