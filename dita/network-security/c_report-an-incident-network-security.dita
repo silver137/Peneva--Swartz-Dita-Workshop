@@ -2,10 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
 "task.dtd">
 <task id="t_report-an-incident-network-security">
-  <title>Report an Incident at NC State</title>
+  <title>Stay Safe on Wi-Fi Networks</title>
 
-  <shortdesc>Follow these steps to report an incident that happened at NC
-  State on through its networks.</shortdesc>
+  <shortdesc>Follow these recommendations to stay safe on Wi-Fi
+  networks.</shortdesc>
 
   <prolog>
     <author>Makayla Muñoz</author>
@@ -14,52 +14,4 @@
       <copyrholder>NC State University</copyrholder>
     </copyright>
   </prolog>
-
-  <taskbody>
-    <context>To report a suspected incident, gather the following information
-    and send it in an email to <b>help@ncsu.edu</b> or call the <b>NC State
-    Help Desk</b> at <b>(919) 515-4357</b>:</context>
-
-    <steps-unordered>
-      <step>
-        <cmd>Type of incident (select from the "Type of Incidents" list)</cmd>
-      </step>
-
-      <step>
-         Your name 
-      </step>
-
-      <step>
-         Your email address 
-      </step>
-
-      <step>
-         Your phone number 
-      </step>
-
-      <step>
-         Your department 
-      </step>
-
-      <step>
-         Date and time of the incident 
-      </step>
-
-      <step>
-         General description of event with the following information, if applicable: 
-
-        <ul>Computer name</ul>
-
-         
-
-        <ul>IP address of each computer involved</ul>
-
-         
-
-        <ul>Logs from each computer involved</ul>
-
-         
-      </step>
-    </steps-unordered>
-  </taskbody>
 </task>

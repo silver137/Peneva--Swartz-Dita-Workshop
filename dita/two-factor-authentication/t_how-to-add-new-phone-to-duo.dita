@@ -33,7 +33,7 @@
         <cmd>Leave the <uicontrol>Passcode</uicontrol> field empty, select <uicontrol>Enter a Passcode</uicontrol>, and select <uicontrol>Text me new codes</uicontrol> in the blue box at the bottom of the page.</cmd>
       </step>
       <step>
-        <cmd>Enter the verification code texted to your phone into the <uicontrol>Login</uicontrol> field and select <uicontrol>Log in</uicontrol> to open the <wintitle>My Settings and Device</wintitle> page.</cmd>
+        <cmd>Enter the verification code texted to your phone into the <uicontrol>Login</uicontrol> field and select <uicontrol>Log in</uicontrol> to open the <b>My Settings and Device</b> page.</cmd>
       </step>
       <step>
         <cmd>Select <uicontrol>Device Options</uicontrol> next to your old phone entry and select <uicontrol>Reactivate DUO Mobile</uicontrol> to display a QR code.</cmd>
